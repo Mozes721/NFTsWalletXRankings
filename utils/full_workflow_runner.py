@@ -5,7 +5,7 @@ from typing import Dict, List, Optional
 from utils.webdriver_initializer import ChromeDriverWrapper
 from config.config_data import RarityConfig
 import selenium.webdriver as webdriver
-
+ 
 class EssentialsAutomationRunner(webdriver.Chrome):
 
     def __init__(self) -> None:
