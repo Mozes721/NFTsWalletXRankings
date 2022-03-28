@@ -2,17 +2,14 @@ import argparse
 from abc import ABC, abstractmethod
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional
-from utils.webdriver_initializer import ChromeDriverWrapper
+from utils.webdriver_initializer import FirefoxDriverWrapper
 from config.config_data import RarityConfig
-import selenium.webdriver as webdriver
- 
-class EssentialsAutomationRunner(webdriver.Chrome):
+from selenium import webdriver
+
+class EssentialsAutomationRunner(webdriver.Firefox):
 
     def __init__(self) -> None:
-        self.bot = ChromeDriverWrapper()
-        
-        super().__init__(only_run_essentials=True)
-       
+        self.bot = FirefoxDriverWrapper()
+         
         print(self.bot)
 
-EssentialsAutomationRunner()

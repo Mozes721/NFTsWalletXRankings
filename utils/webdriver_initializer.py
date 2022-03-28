@@ -3,15 +3,15 @@ import time
 import argparse
 from typing import Optional, Union, Any, Callable, Tuple, List
 from config.config_data import RarityConfig, OSConfig, Other_Config
-import selenium.webdriver as webdriver
+from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.chrome.options import Options
-from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.firefox.options import Options
 
 
-class ChromeDriverWrapper(webdriver.Chrome):
+
+class FirefoxDriverWrapper(webdriver.Firefox):
 
     webdriver_timeout = 240
 
@@ -19,10 +19,9 @@ class ChromeDriverWrapper(webdriver.Chrome):
         self.Rarityconfig = RarityConfig()
         self.OSconfig = OSConfig()
         self.Otherconfig = Other_Config()
-        # self.driver = webdriver.Chrome(ChromeDriverManager().install())
-        options = self.set_chrome_options(local_test_mode)
-        self.driver = webdriver.Chrome(ChromeDriverManager().install(),chrome_options=options)
-        super().__init__(self.driver)
+        self.firefox_options = self.set_firefox_options(local_test_mode)
+        self.driver = webdriver.Firefox()
+        
         
 
     def wait_until(self, expected_condition: EC,
@@ -40,11 +39,11 @@ class ChromeDriverWrapper(webdriver.Chrome):
         time.sleep(8)
 
     @staticmethod
-    def set_chrome_options(local_test_mode: bool = False) -> webdriver.Chrome:
-        chrome_options = Options()
-        chrome_options.binary_location = "/home/r.taujenis/.wdm/drivers/chromedriver/linux64/99.0.4844.51/chromedriver"
+    def set_firefox_options(local_test_mode: bool = False) -> webdriver.Chrome:
+        firefox_options = Options()
+
         if not local_test_mode:
-            chrome_options.add_argument('--headless')
-            chrome_options.add_argument('--no-sandbox')
-            chrome_options.add_argument('--disable-gpu')
-        return chrome_options
+            firefox_options.add_argument('--headless')
+            firefox_options.add_argument('--no-sandbox')
+            firefox_options.add_argument('--disable-dev-shm-usage')
+        return firefox_options

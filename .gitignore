@@ -4,7 +4,7 @@ __pycache__/
 files
 
 # Environments
-env
+../..venv
 .env
 env/
 env.bak/
