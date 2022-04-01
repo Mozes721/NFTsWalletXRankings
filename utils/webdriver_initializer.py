@@ -10,7 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
 
 
-
+ 
 class FirefoxDriverWrapper(webdriver.Firefox):
 
     def __init__(self, download_dir: Optional[str] = "", local_test_mode: Optional[bool] = False) -> None:
