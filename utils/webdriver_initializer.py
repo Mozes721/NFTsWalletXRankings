@@ -13,16 +13,18 @@ from selenium.webdriver.firefox.options import Options
 
 class FirefoxDriverWrapper(webdriver.Firefox):
 
-    webdriver_timeout = 240
-
     def __init__(self, download_dir: Optional[str] = "", local_test_mode: Optional[bool] = False) -> None:
         self.Rarityconfig = RarityConfig()
         self.OSconfig = OSConfig()
         self.Otherconfig = Other_Config()
         self.firefox_options = self.set_firefox_options(local_test_mode)
         self.driver = webdriver.Firefox()
+        self.wait = WebDriverWait(self.driver, 10)
         
         
+    def add_id(self, id):
+        self.driver.find_element_by_xpath(self.Rarityconfig.enter_id).sendKeys(id)
+        self.driver.find_element_by_xpath(self.Rarityconfig.check_id).click()
 
     def wait_until(self, expected_condition: EC,
                    ignored_exceptions: Optional[tuple] = None) -> WebElement:
