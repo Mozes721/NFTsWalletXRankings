@@ -19,12 +19,13 @@ class RarityWebsiteRunner(FirefoxDriverWrapper):
     webdriver_timeout = 240
  
     def __init__(self, args: List) -> None:
-        super().__init__()
         self.collection = args.collection.replace(" ", "-").lower()
-        self.id = args.id
+        self.id = args.id    
         self.rank = args.rank
         self.selling = args.selling
-        print(self.collection, self.id, self.rank, self.selling)
+        super().__init__()
+        super().driver(args.headless)
+        print(self.collection, self.id, self.rank, self.selling, self.headless)
         self.collection_url_rankings()
 
 
@@ -36,6 +37,9 @@ class RarityWebsiteRunner(FirefoxDriverWrapper):
                 self.driver.find_element(By.XPATH, self.Rarityconfig.enter_id).send_keys(ids)
                 self.driver.find_element(By.XPATH, self.Rarityconfig.check_id).click()
                 self.wait.until(EC.visibility_of_element_located((By.XPATH, RarityConfig.check_if_id_listed))).get_attribute(ids)
+        if isinstance(self.id, str):
+            self.driver.find_element(By.XPATH, self.Rarityconfig.enter_id).send_keys(self.id)
+            self.driver.find_element(By.XPATH, self.Rarityconfig.check_id).click()
         if self.rank is not None:
                 self.driver.find_element(By.XPATH, self.Rarityconfig.from_rank).click()
                 self.driver.find_element(By.XPATH, self.Rarityconfig.from_rank).send_keys(self.rank[0])
@@ -43,13 +47,8 @@ class RarityWebsiteRunner(FirefoxDriverWrapper):
                 self.driver.find_element(By.XPATH, self.Rarityconfig.to_rank).send_keys(self.rank[1])
         if self.selling is not None:
                 self.driver.find_element(By.XPATH, self.Rarityconfig.buy_now).click()
-        else:
-            self.driver.find_element(By.XPATH, self.Rarityconfig.enter_id).send_keys(self.id)
-            self.driver.find_element(By.XPATH, self.Rarityconfig.check_id).click()
-
-
-
         
+
 #TODO Select single or multiple NFT collection IDs and their rankings 
 #TODO If single select get individual full values 
 #TODO Save as JSON single as _ID_traits.json or list as _IDs_list.json    

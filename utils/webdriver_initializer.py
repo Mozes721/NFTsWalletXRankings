@@ -17,11 +17,12 @@ class FirefoxDriverWrapper(webdriver.Firefox):
         self.Rarityconfig = RarityConfig()
         self.OSconfig = OSConfig()
         self.Otherconfig = Other_Config()
-        self.firefox_options = self.set_firefox_options(local_test_mode)
-        self.driver = webdriver.Firefox()
+        self.firefox_options = self.set_firefox_options(local_test_mode=False)
         self.wait = WebDriverWait(self.driver, 10)
-        
-        
+    
+    def driver(self, headless):
+        self.driver = webdriver.Firefox(options=self.set_firefox_options(local_test_mode=headless))
+
     def add_id(self, id):
         self.driver.find_element_by_xpath(self.Rarityconfig.enter_id).sendKeys(id)
         self.driver.find_element_by_xpath(self.Rarityconfig.check_id).click()
@@ -40,11 +41,11 @@ class FirefoxDriverWrapper(webdriver.Firefox):
         self.wait_until(redirected_to_webpage_path)
         time.sleep(8)
 
-    @staticmethod
-    def set_firefox_options(local_test_mode: bool = False) -> webdriver.Chrome:
+    
+    def set_firefox_options(self, local_test_mode: bool = False) -> webdriver.Chrome:
         firefox_options = Options()
 
-        if not local_test_mode:
+        if local_test_mode:
             firefox_options.add_argument('--headless')
             firefox_options.add_argument('--no-sandbox')
             firefox_options.add_argument('--disable-dev-shm-usage')
