@@ -2,7 +2,6 @@ import argparse
 from dataclasses import dataclass, field
 from typing import Dict, List
 
-
 @dataclass
 class RarityConfig:
     url: str = "https://raritysniper.com/"
