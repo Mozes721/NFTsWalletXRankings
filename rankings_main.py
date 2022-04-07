@@ -25,7 +25,7 @@ class RarityWebsiteRunner(FirefoxDriverWrapper):
         self.selling = args.selling
         super().__init__()
         super().driver(args.headless)
-        print(self.collection, self.id, self.rank, self.selling, self.headless)
+        print(self.collection, self.id, self.rank, self.selling, args.headless)
         self.collection_url_rankings()
 
 
@@ -36,18 +36,34 @@ class RarityWebsiteRunner(FirefoxDriverWrapper):
             for ids in self.id:
                 self.driver.find_element(By.XPATH, self.Rarityconfig.enter_id).send_keys(ids)
                 self.driver.find_element(By.XPATH, self.Rarityconfig.check_id).click()
-                self.wait.until(EC.visibility_of_element_located((By.XPATH, RarityConfig.check_if_id_listed))).get_attribute(ids)
+                # self.wait.until(EC.visibility_of_element_located((By.XPATH, RarityConfig.check_if_id_listed))).get_attribute(ids)
+            self.get_ids_values()
         if isinstance(self.id, str):
             self.driver.find_element(By.XPATH, self.Rarityconfig.enter_id).send_keys(self.id)
             self.driver.find_element(By.XPATH, self.Rarityconfig.check_id).click()
+            self.get_ids_values()
         if self.rank is not None:
                 self.driver.find_element(By.XPATH, self.Rarityconfig.from_rank).click()
                 self.driver.find_element(By.XPATH, self.Rarityconfig.from_rank).send_keys(self.rank[0])
                 self.driver.find_element(By.XPATH, self.Rarityconfig.to_rank).click()
                 self.driver.find_element(By.XPATH, self.Rarityconfig.to_rank).send_keys(self.rank[1])
+            # self.get_ranks_values()
         if self.selling is not None:
                 self.driver.find_element(By.XPATH, self.Rarityconfig.buy_now).click()
-        
+
+    def get_ids_values(self):
+        if isinstance(self.id, list):
+            for i in self.id:
+                self.driver.get(RarityConfig.url + self.collection + '/' + i)
+                print(self.driver.find_element(By.XPATH, self.Rarityconfig.rank_id).text)
+                print("*"*10)
+                print(self.driver.find_element(By.XPATH, self.Rarityconfig.owner_rarity_score).text)
+            else:
+                self.driver.get(RarityConfig.url + self.collection + '/' + self.id)
+                print(self.driver.find_element(By.XPATH, self.Rarityconfig.rank_id).text)
+                print("*"*10)
+                print(self.driver.find_element(By.XPATH, self.Rarityconfig.owner_rarity_score).text)
+
 
 #TODO Select single or multiple NFT collection IDs and their rankings 
 #TODO If single select get individual full values 

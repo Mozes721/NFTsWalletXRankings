@@ -12,9 +12,11 @@ class RarityConfig:
     from_rank: str = '/html/body/div[1]/div[1]/nav/div/div[3]/div[12]/div/div[1]/input'
     to_rank: str = '/html/body/div[1]/div[1]/nav/div/div[3]/div[12]/div/div[2]/input'
     buy_now: str = '/html/body/div[1]/div[1]/nav/div/div[3]/div[7]/div/label'
-    collection_table: str = '/html/body/div[1]/div[1]/section/div[4]'
     collection_ids: str = '/html/body/div[1]/div[1]/section/div[4]/div/div'
-
+    #values of id
+    rank_id: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[1]'
+    owner_rarity_score: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[2]'
+    
     @staticmethod
     def add_default_arguments_to_parser(parser: argparse.ArgumentParser) -> argparse.ArgumentParser:
         parser = argparse.ArgumentParser(description="Enter NFT collection ID, IDs or from to rank example(10, 20) from selected collection. In addition can check if it's on sale")
