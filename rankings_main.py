@@ -15,7 +15,7 @@ from selenium.webdriver.support import expected_conditions as EC
 #TODO PART1
 #TODO Access Rarity Tools website 
 class RarityWebsiteRunner(FirefoxDriverWrapper):
-
+ 
     webdriver_timeout = 240
  
     def __init__(self, args: List) -> None:
