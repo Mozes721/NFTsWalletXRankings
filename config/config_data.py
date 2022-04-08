@@ -15,7 +15,10 @@ class RarityConfig:
     collection_ids: str = '/html/body/div[1]/div[1]/section/div[4]/div/div'
     #values of id
     rank_id: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[1]'
-    owner_rarity_score: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[2]'
+    rarity_score: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[2]/div[3]/div'
+    owner: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[2]/div[2]/a/span'
+    listed: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[2]/div[1]/a/div/span/span[2]'
+    
     
     @staticmethod
     def add_default_arguments_to_parser(parser: argparse.ArgumentParser) -> argparse.ArgumentParser:
