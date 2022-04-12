@@ -9,3 +9,4 @@ files
 env/
 env.bak/
 venv.bak/
+geckodriver.log

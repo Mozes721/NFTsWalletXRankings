@@ -5,7 +5,7 @@ from typing import List
 from abc import abstractmethod, ABC
 from utils.webdriver_initializer import FirefoxDriverWrapper
 
-from config.config_data import RarityConfig
+from config.config_data import RarityConfig, OSConfig
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
@@ -15,6 +15,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+
 #TODO PART1
 #TODO Access Rarity Tools website 
 class RarityWebsiteRunner(FirefoxDriverWrapper):
@@ -68,17 +69,29 @@ class RarityWebsiteRunner(FirefoxDriverWrapper):
 
     def check_id(self, collection_id):
         self.driver.get(RarityConfig.url + self.collection + '/' + collection_id)
-        print(self.driver.find_element(By.XPATH, self.Rarityconfig.rank_id).text)
-        print("*"*10)
-        print(self.driver.find_element(By.XPATH, self.Rarityconfig.rarity_score).text)
-        print(self.driver.find_element(By.XPATH, self.Rarityconfig.owner).text)
+        
+        rank_id = self.driver.find_element(By.XPATH, self.Rarityconfig.rank_id).text
+        rarity_score = self.driver.find_element(By.XPATH, self.Rarityconfig.rarity_score).text
+        self.driver.implicitly_wait(2)
+        owner_OS = self.driver.find_element(By.XPATH, self.Rarityconfig.owner_OS).get_attribute('href')
+        # links = [elem.get_attribute('href') for elem in owner]
+        print(owner_OS)
+        self.OS_user(owner_OS)
         if self.selling is not None:
             try:
-                print(self.driver.find_element(By.XPATH, self.Rarityconfig.listed).text)
+                price = self.driver.find_element(By.XPATH, self.Rarityconfig.listed).text
             except NoSuchElementException:
-                print("UNLISTED")
-       
+                price = "UNLISTED"
+            print("The rank and id are %s rarity score %s owner is %s and market value %s" % (rank_id, rarity_score, owner, price))
+        print("The rank and id are %s rarity score %s owner is %s" % (rank_id, rarity_score, owner))
             
+
+    def OS_user(self, url):
+        self.driver.get(url)
+        self.driver.implicitly_wait(2)
+        print(self.driver.find_element(By.XPATH, self.OSConfig.test).text)
+        # print(self.driver.find_element(By.XPATH, self.OSConfig.test).text)
+        # self.driver.get()
 #TODO Save as JSON single as _ID_traits.json or list as _IDs_list.json    
 def parse_args(args: List) -> argparse.Namespace:
     """ Parses arguments from console input. """

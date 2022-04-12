@@ -16,10 +16,9 @@ class RarityConfig:
     #values of id
     rank_id: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[1]'
     rarity_score: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[2]/div[3]/div'
-    owner: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[2]/div[2]/a/span'
+    owner_OS: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[2]/div[2]/a'
     listed: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[2]/div[1]/a/div/span/span[2]'
-    
-    
+
     @staticmethod
     def add_default_arguments_to_parser(parser: argparse.ArgumentParser) -> argparse.ArgumentParser:
         parser = argparse.ArgumentParser(description="Enter NFT collection ID, IDs or from to rank example(10, 20) from selected collection. In addition can check if it's on sale")
@@ -33,7 +32,7 @@ class RarityConfig:
 
 @dataclass
 class OSConfig:
-    url: str = "https://opensea.io/"
+    test: str = "/html/body/div[1]/div/main/div/div/div[1]/ul/li[2]/a"
 
 @dataclass
 class Other_Config:

@@ -31,8 +31,10 @@ JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-ile exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilew9yd2s\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:54491/devtools/browser/4178f1a3-48ac-4266-bed1-7f637b3f0297
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1649745738190	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ls/browser/4178f1a3-48ac-4266-bed1-7f637b3f0297
 1648219870254	Marionette	INFO	Listening on port 54496
 1648219870695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
@@ -46,8 +48,10 @@ JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-ile exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilePnGTly\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:54547/devtools/browser/01ad30fb-d518-4c93-bf4a-308264110ca7
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1649745738206	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ls/browser/01ad30fb-d518-4c93-bf4a-308264110ca7
 1648219908039	Marionette	INFO	Listening on port 54552
 1648219908463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
@@ -61,10 +65,10 @@ JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-d 0)))
-DevTools listening on ws://localhost:54690/devtools/browser/51957d99-38fd-42cc-87f1-dd12b79d1865
-1648220108973	Marionette	INFO	Listening on port 54696
-1648220109054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1649745738173	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ignored for this session
 1648220178168	Marionette	INFO	Stopped listening on port 54696
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 1648220646647	geckodriver	INFO	Listening on 127.0.0.1:62169
@@ -2113,10 +2117,10 @@ JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-52839" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile5TSbhw"
-*** You are running in headless mode.
-1648823333858	Marionette	INFO	Marionette enabled
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1649745738217	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+led mapping default framebuffer, no dt
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofile5TSbhw\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:52839/devtools/browser/6c3f5286-23e6-4220-a433-58a6356a06f9
 1648823335053	Marionette	INFO	Listening on port 52845
@@ -2126,9 +2130,10 @@ JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-\\AppData\\Local\\Temp\\rust_mozprofilefbbdJA"
-1648823500475	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilefbbdJA\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1649745738499	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilefbbdJA\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:53037/devtools/browser/23606133-dfc7-477e-843d-6d1418b80aff
 1648823502954	Marionette	INFO	Listening on port 53148
 1648823503037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
@@ -2254,10 +2259,10 @@ JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-57761" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileEFqVux"
-*** You are running in headless mode.
-1648825117997	Marionette	INFO	Marionette enabled
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1649745738184	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+led mapping default framebuffer, no dt
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileEFqVux\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:57761/devtools/browser/31b224cf-d343-4dc5-91c3-0debf7bccc75
 1648825119276	Marionette	INFO	Listening on port 57767
@@ -2267,10 +2272,10 @@ JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-57788" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilekZgZVD"
-*** You are running in headless mode.
-1648825123416	Marionette	INFO	Marionette enabled
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1649745738519	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+led mapping default framebuffer, no dt
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilekZgZVD\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:57788/devtools/browser/b6a66a18-6ee4-4ded-9e73-f82bebb51474
 1648825124657	Marionette	INFO	Listening on port 57808
@@ -2280,9 +2285,10 @@ JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-\\AppData\\Local\\Temp\\rust_mozprofilejutKho"
-1648825230764	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilejutKho\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1649745738697	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilejutKho\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:57960/devtools/browser/bd846bd4-20f8-47a8-b5f0-3a2c062cd4f9
 1648825232912	Marionette	INFO	Listening on port 57965
 1648825233284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
@@ -4272,8 +4278,10 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://localhost:54887/devtools/browser/af89832c-62df-4442-a40a-09e05caa0f4a
 1649432919124	Marionette	INFO	Listening on port 54899
 1649432919587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1649433064873	geckodriver	INFO	Listening on 127.0.0.1:55665
-1649433067735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--remote-debugging-port" "55666" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilegzH8F4"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1649745738314	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+hm-usage" "--remote-debugging-port" "55666" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilegzH8F4"
 *** You are running in headless mode.
 1649433068731	Marionette	INFO	Marionette enabled
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
@@ -4284,8 +4292,10 @@ DevTools listening on ws://localhost:55666/devtools/browser/53d905c3-0cea-4f7e-9
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://raritysniper.com"
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
-1649433173155	geckodriver	INFO	Listening on 127.0.0.1:56008
-1649433176009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--remote-debugging-port" "56009" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileM9MC4W"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1649745738151	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+hm-usage" "--remote-debugging-port" "56009" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileM9MC4W"
 *** You are running in headless mode.
 1649433176928	Marionette	INFO	Marionette enabled
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
@@ -4294,8 +4304,10 @@ DevTools listening on ws://localhost:56009/devtools/browser/41bf461c-cbb9-4c5f-a
 1649433178845	Marionette	INFO	Listening on port 56020
 1649433179204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://raritysniper.com"
-1649433391317	geckodriver	INFO	Listening on 127.0.0.1:55515
-1649433394197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--remote-debugging-port" "55516" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileoeqabk"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1649745738240	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+hm-usage" "--remote-debugging-port" "55516" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileoeqabk"
 *** You are running in headless mode.
 1649433394976	Marionette	INFO	Marionette enabled
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
@@ -4305,8 +4317,10 @@ DevTools listening on ws://localhost:55516/devtools/browser/3345c75d-d2a8-420e-a
 1649433396380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://raritysniper.com"
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
-1649433415631	geckodriver	INFO	Listening on 127.0.0.1:55643
-1649433418554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55644" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileSZwiwg"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1649745738293	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+e" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileSZwiwg"
 1649433419224	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileSZwiwg\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:55644/devtools/browser/78da5b29-e9cd-44b2-ab0e-1ab78f4a9b6c
@@ -4485,3 +4499,700 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
 
+1649434366307	geckodriver	INFO	Listening on 127.0.0.1:55455
+1649434369211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55456" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilezzuKgd"
+1649434369958	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilezzuKgd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55456/devtools/browser/68f48671-30c8-451c-81d6-8e12bd6ff157
+1649434372375	Marionette	INFO	Listening on port 55470
+1649434372416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649434686213	Marionette	INFO	Stopped listening on port 55470
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55771" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilehe7Qa6"
+1649434447627	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilehe7Qa6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55771/devtools/browser/6f41f1d8-d007-4fb5-9a75-b0f3aa61ce9b
+1649434450379	Marionette	INFO	Listening on port 55782
+1649434450594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649434685511	Marionette	INFO	Stopped listening on port 55782
+e-debugging-port" "56221" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile8yti3M"
+1649434602136	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofile8yti3M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56221/devtools/browser/f4c513a1-9db2-4258-a2ad-2e9058f2951e
+1649434604691	Marionette	INFO	Listening on port 56232
+1649434604923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649434847389	Marionette	INFO	Stopped listening on port 56232
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649673823189	geckodriver	INFO	Listening on 127.0.0.1:49686
+1649673826141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49687" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilebJ1VzP"
+1649673827030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilebJ1VzP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49687/devtools/browser/ab87a482-41f7-4f6b-8f5e-f932e59f3b39
+1649673829469	Marionette	INFO	Listening on port 49700
+1649673829844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649673919102	Marionette	INFO	Stopped listening on port 49700
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649688536629	geckodriver	INFO	Listening on 127.0.0.1:51854
+1649688539572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--remote-debugging-port" "51855" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilezr1usy"
+*** You are running in headless mode.
+1649688540617	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilezr1usy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51855/devtools/browser/e52939b9-7695-4b6a-80a4-f2932567dff1
+1649688542083	Marionette	INFO	Listening on port 51866
+1649688542262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649688614207	geckodriver	INFO	Listening on 127.0.0.1:52692
+1649688617139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52693" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileM1XcYj"
+1649688617915	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileM1XcYj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52693/devtools/browser/2aa50aba-bc39-4107-8ebd-7b766927c7d3
+1649688621167	Marionette	INFO	Listening on port 52707
+1649688621336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649688984625	Marionette	INFO	Stopped listening on port 52707
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+e	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofile8jnO8A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53571/devtools/browser/49325066-e0ee-477a-87a8-b2e0b85a7e7c
+1649688900135	Marionette	INFO	Listening on port 53590
+1649688900227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649688985591	Marionette	INFO	Stopped listening on port 53590
+1649688993330	geckodriver	INFO	Listening on 127.0.0.1:53905
+1649688996248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53906" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilepW5JZx"
+1649688997422	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilepW5JZx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53906/devtools/browser/53264ac5-a9db-4440-bdd5-caf589feed58
+1649689000589	Marionette	INFO	Listening on port 53918
+1649689001064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649760437784	Marionette	INFO	Stopped listening on port 53918
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilezLx42L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56717/devtools/browser/c43bab5e-86ce-4096-b4d6-7582261e0767
+1649689941124	Marionette	INFO	Listening on port 56729
+1649689941531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649704500891	Marionette	INFO	Stopped listening on port 56729
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Temp\\rust_mozprofile5iGcPo"
+*** You are running in headless mode.
+1649690323603	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofile5iGcPo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49977/devtools/browser/2aed3704-50d0-46e5-b92d-8c41cd975d7d
+1649690324902	Marionette	INFO	Listening on port 49992
+1649690324955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649690352194	geckodriver	INFO	Listening on 127.0.0.1:50248
+1649690355135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50249" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileL0uIck"
+1649690355942	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileL0uIck\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50249/devtools/browser/742ef5be-ffbc-4eef-881f-f593900fe7ca
+1649690358459	Marionette	INFO	Listening on port 50261
+1649690358844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.fb0e16024264711710ac.js, line 0: Successfully compiled asm.js code (total compilation time 111ms)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.aa60dcf072956f79bc38.js, line 0: Successfully compiled asm.js code (total compilation time 75ms)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649760438333	Marionette	INFO	Stopped listening on port 50261
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+for this session
+1649752725923	geckodriver	INFO	Listening on 127.0.0.1:64154
+1649752728842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64155" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile7YDeBN"
+1649752729705	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 36320, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofile7YDeBN\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:64155/devtools/browser/d1a60e6a-9167-46e3-8af0-954ca0fcaf3a
+1649752741857	Marionette	INFO	Listening on port 64167
+1649752742345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649755267154	Marionette	INFO	Stopped listening on port 64167
+e-debugging-port" "52149" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilelnNeYT"
+1649753858496	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 67452, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilelnNeYT\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:52149/devtools/browser/44a2305b-437c-4e2d-be50-ecdef671d7a3
+1649753870625	Marionette	INFO	Listening on port 52161
+1649753871150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1649754279737	Marionette	INFO	Stopped listening on port 52161
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://browser/content/browser.js, line 7927: uncaught exception: undefined
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 297: TypeError: this._builder is undefined
+with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileq3RRYj\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:52385/devtools/browser/93a61986-0c5e-4fdb-bab2-4085f51c0430
+1649753935813	Marionette	INFO	Listening on port 52399
+1649753935973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+1649754637047	geckodriver	INFO	Listening on 127.0.0.1:64657
+1649754639979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64658" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileX27Bae"
+1649754640942	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 48288, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileX27Bae\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:64658/devtools/browser/0769ba01-9504-4e97-bb21-d16bf5679aea
+1649754653103	Marionette	INFO	Listening on port 64669
+1649754653457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1649754654147	Marionette	INFO	Stopped listening on port 64669
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649754814752	geckodriver	INFO	Listening on 127.0.0.1:54058
+1649754817679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54059" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileNmzNyy"
+1649754818465	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 70636, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileNmzNyy\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:54059/devtools/browser/69cb659c-d692-413a-a745-72101ea05fd0
+1649754830666	Marionette	INFO	Listening on port 54075
+1649754831156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1649755270931	Marionette	INFO	Stopped listening on port 54075
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1.TAU\\AppData\\Local\\Temp\\rust_mozprofileuIu5Kq"
+1649754886179	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 34616, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileuIu5Kq\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:54359/devtools/browser/935dfa4c-a0ce-490a-b7f6-735e38e22871
+1649754898485	Marionette	INFO	Listening on port 54372
+1649754898819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1649755426204	Marionette	INFO	Stopped listening on port 54372
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 297: TypeError: this._builder is undefined
+zprofilevO5WH7"
+1649755319455	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 63164, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilevO5WH7\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:55604/devtools/browser/5b48f741-d959-495f-bf69-b8cde1695c88
+1649755331465	Marionette	INFO	Listening on port 55617
+1649755331900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649757402791	Marionette	INFO	Stopped listening on port 55617
+e-debugging-port" "57658" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilewaZ8dd"
+1649756145660	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 77020, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilewaZ8dd\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:57658/devtools/browser/023ca957-f222-4297-bae6-3b87eee0246e
+1649756157898	Marionette	INFO	Listening on port 57671
+1649756158316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649757407035	Marionette	INFO	Stopped listening on port 57671
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58023" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilekmrQpr"
+1649756201683	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 67072, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilekmrQpr\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:58023/devtools/browser/0a840880-99a0-419b-b635-c10f918bd154
+1649756214223	Marionette	INFO	Listening on port 58036
+1649756214305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649757410295	Marionette	INFO	Stopped listening on port 58036
+\\AppData\\Local\\Temp\\rust_mozprofileJLf9YP"
+1649756395041	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 58556, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileJLf9YP\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:58540/devtools/browser/d3baa90d-4bb6-4382-934c-ffa19b780f1a
+1649756407233	Marionette	INFO	Listening on port 58551
+1649756407684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1649757405818	Marionette	INFO	Stopped listening on port 58551
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1.TAU\\AppData\\Local\\Temp\\rust_mozprofile7jEG77"
+1649756870622	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 47328, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofile7jEG77\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:61131/devtools/browser/069826b2-46d1-4f1a-b395-756920fcb5e8
+1649756882817	Marionette	INFO	Listening on port 61143
+1649756883206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1649757404220	Marionette	INFO	Stopped listening on port 61143
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61478" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilev0K6nd"
+1649756937555	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 51396, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilev0K6nd\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:61478/devtools/browser/a1161be7-67f9-4501-9ce4-4d991e89efa2
+1649756949935	Marionette	INFO	Listening on port 61490
+1649756950410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1649760437339	Marionette	INFO	Stopped listening on port 61490
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\r.taujenis\AppData\Local\Temp\rust_mozprofilev0K6nd\protections.sqlite
+ocal\\Temp\\rust_mozprofileRbY0qi"
+1649757451748	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 50784, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileRbY0qi\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:62721/devtools/browser/0b44e5dc-9465-4d33-ac91-a7c62036039a
+1649757463970	Marionette	INFO	Listening on port 62733
+1649757464126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649760437552	Marionette	INFO	Stopped listening on port 62733
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\r.taujenis\AppData\Local\Temp\rust_mozprofileRbY0qi\protections.sqlite
+mium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileOoWnRL\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:62980/devtools/browser/5eda6abe-7fd2-49c8-899d-fe1c6aa5802c
+1649757540721	Marionette	INFO	Listening on port 62993
+1649757540803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649760437011	Marionette	INFO	Stopped listening on port 62993
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63223" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilepXOSB7"
+1649757592308	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 68436, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilepXOSB7\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:63223/devtools/browser/c00a15d6-e7ee-483b-88c9-ec39447b43b7
+1649757604447	Marionette	INFO	Listening on port 63234
+1649757604951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649760436985	Marionette	INFO	Stopped listening on port 63234
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+remote compositor
+[Parent 40136, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileD6pu63\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:60724/devtools/browser/66e34198-490a-4ae9-9f57-2c9a8d00f88d
+1649760280694	Marionette	INFO	Listening on port 60735
+1649760281200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1649760473158	geckodriver	INFO	Listening on 127.0.0.1:61274
+1649760476068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61275" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilemKjNrv"
+1649760477744	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 69552, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilemKjNrv\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:61275/devtools/browser/888d0537-4f5f-4997-9e17-1d9c9d05c604
+1649760490445	Marionette	INFO	Listening on port 61288
+1649760490818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649760683423	geckodriver	INFO	Listening on 127.0.0.1:61875
+1649760686329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61877" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileiz9C87"
+1649760687148	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 72136, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileiz9C87\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:61877/devtools/browser/b13cb83e-243c-456d-982e-c9ccb50e2f79
+1649760699766	Marionette	INFO	Listening on port 61905
+1649760699843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1649760805470	geckodriver	INFO	Listening on 127.0.0.1:62249
+1649760808399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62250" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileH3JKyL"
+1649760809346	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 51512, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileH3JKyL\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:62250/devtools/browser/f68892f8-525d-4f4b-9238-968614ad9b93
+1649760821528	Marionette	INFO	Listening on port 62262
+1649760821896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+Exiting due to channel error.
+Exiting due to channel error.
+49760878218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62490" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilewTYcxP"
+1649760879034	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 76392, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofilewTYcxP\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:62490/devtools/browser/0800f3d7-3681-4982-9f39-ed501da7a21a
+1649760891135	Marionette	INFO	Listening on port 62501
+1649760891170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+1649760956879	geckodriver	INFO	Listening on 127.0.0.1:62763
+1649760959740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62764" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileBZO85d"
+1649760960615	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 49144, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileBZO85d\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:62764/devtools/browser/4c372d86-7e24-4685-b2b4-ba28900fe854
+1649760972721	Marionette	INFO	Listening on port 62775
+1649760973206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1649761230655	Marionette	INFO	Stopped listening on port 62775
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 297: TypeError: this._builder is undefined
+: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 38280, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileYtSpE7\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:63185/devtools/browser/3981109e-8965-4450-84dc-685b8f02df99
+1649761122204	Marionette	INFO	Listening on port 63198
+1649761122240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.aa60dcf072956f79bc38.js, line 0: Successfully compiled asm.js code (total compilation time 160ms)
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1649761146081	Marionette	INFO	Stopped listening on port 63198
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1649761209135	geckodriver	INFO	Listening on 127.0.0.1:63561
+1649761212005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63562" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileQB77HX"
+1649761212744	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 62732, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileQB77HX\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:63562/devtools/browser/22ab5f3c-6c81-412a-ad3c-41d75af1cedb
+1649761225179	Marionette	INFO	Listening on port 63578
+1649761225478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.aa60dcf072956f79bc38.js, line 0: Successfully compiled asm.js code (total compilation time 84ms)
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1649761253816	Marionette	INFO	Stopped listening on port 63578
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649761273804	geckodriver	INFO	Listening on 127.0.0.1:63825
+1649761276734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63826" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileNJ8gj4"
+1649761277537	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 72612, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileNJ8gj4\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:63826/devtools/browser/6e879c46-900c-4127-b78f-d33a79590434
+1649761290032	Marionette	INFO	Listening on port 63838
+1649761290192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.aa60dcf072956f79bc38.js, line 0: Successfully compiled asm.js code (total compilation time 77ms)
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64174" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileJzd9oe"
+1649761367195	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 67800, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:405
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\r.taujenis\\AppData\\Local\\Temp\\rust_mozprofileJzd9oe\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+DevTools listening on ws://localhost:64174/devtools/browser/badaf39b-c813-4654-b46e-e3918c1c19e0
+1649761379345	Marionette	INFO	Listening on port 64186
+1649761379393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.aa60dcf072956f79bc38.js, line 0: Successfully compiled asm.js code (total compilation time 92ms)
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1649761412008	Marionette	INFO	Stopped listening on port 64186
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]

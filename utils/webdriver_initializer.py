@@ -16,7 +16,7 @@ class FirefoxDriverWrapper(webdriver.Firefox):
 
     def __init__(self, download_dir: Optional[str] = "", local_test_mode: Optional[bool] = False) -> None:
         self.Rarityconfig = RarityConfig()
-        self.OSconfig = OSConfig()
+        self.OSConfig = OSConfig()
         self.Otherconfig = Other_Config()
         self.firefox_options = self.set_firefox_options(local_test_mode=False)
         # self.wait = WebDriverWait(self.driver, 10)
