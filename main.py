@@ -62,7 +62,7 @@ class RarityWebsiteRunner(FirefoxDriverWrapper):
             self.check_id(self.id)
         if self.rank is not None:
             from_rank = int(self.rank[0])
-            to_rank = int(self.rank[1])
+            to_rank = int(self.rank[1]) 
             while from_rank <= to_rank:
                 self.driver.implicitly_wait(2)
                 self.check_id(str(from_rank))
