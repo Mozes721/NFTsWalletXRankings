@@ -3,8 +3,9 @@ import sys
 import time
 from typing import List
 from abc import abstractmethod, ABC
+import pyperclip
 from utils.webdriver_initializer import FirefoxDriverWrapper
-
+from scripts.get_wallets_ETH import get_account_ballance
 from config.config_data import RarityConfig, OSConfig
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -72,7 +73,7 @@ class RarityWebsiteRunner(FirefoxDriverWrapper):
         
         rank_id = self.driver.find_element(By.XPATH, self.Rarityconfig.rank_id).text
         rarity_score = self.driver.find_element(By.XPATH, self.Rarityconfig.rarity_score).text
-        self.driver.implicitly_wait(2)
+        self.driver.implicitly_wait(4)
         owner_OS = self.driver.find_element(By.XPATH, self.Rarityconfig.owner_OS).get_attribute('href')
         # links = [elem.get_attribute('href') for elem in owner]
         print(owner_OS)
@@ -82,14 +83,34 @@ class RarityWebsiteRunner(FirefoxDriverWrapper):
                 price = self.driver.find_element(By.XPATH, self.Rarityconfig.listed).text
             except NoSuchElementException:
                 price = "UNLISTED"
-            print("The rank and id are %s rarity score %s owner is %s and market value %s" % (rank_id, rarity_score, owner, price))
-        print("The rank and id are %s rarity score %s owner is %s" % (rank_id, rarity_score, owner))
+        #     print("The rank and id are %s rarity score %s owner is %s and market value %s" % (rank_id, rarity_score, owner, price))
+        # print("The rank and id are %s rarity score %s owner is %s" % (rank_id, rarity_score, owner))
             
 
     def OS_user(self, url):
         self.driver.get(url)
-        self.driver.implicitly_wait(2)
-        print(self.driver.find_element(By.XPATH, self.OSConfig.test).text)
+        self.driver.implicitly_wait(3)
+        owner = url[19:]
+        #get address
+        address = self.get_ETH_address(owner)
+        #get ETH
+        eth = get_account_ballance(address)
+        collected = self.driver.find_element(By.XPATH, self.Rarityconfig.OS_Collected).text
+        print('Users wallet is %s and has collected %s and has balance of %s' % (owner, collected, eth))
+
+    def get_ETH_address(self, owner):
+        if owner.startswith('0x') and len(owner) >= 20:
+            eth_address = owner
+            return eth_address
+        else:
+            try:
+                self.driver.find_element(By.XPATH, self.Rarityconfig.OS_ETH_address).click()
+                eth_address = pyperclip.paste()
+            except:
+                self.driver.find_element(By.XPATH, self.Rarityconfig.OS_ETH_address_2).click()
+            eth_address = pyperclip.paste()
+            print(eth_address)
+            return eth_address
         # print(self.driver.find_element(By.XPATH, self.OSConfig.test).text)
         # self.driver.get()
 #TODO Save as JSON single as _ID_traits.json or list as _IDs_list.json    
