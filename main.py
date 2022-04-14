@@ -7,7 +7,7 @@ import pyperclip
 from utils.webdriver_initializer import FirefoxDriverWrapper
 from scripts.get_wallets_ETH import get_account_ballance
 from config.config_data import RarityConfig, OSConfig
-from selenium import webdriver
+from selenium import webdriver 
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.remote.webelement import WebElement
