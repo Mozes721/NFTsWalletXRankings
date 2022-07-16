@@ -6124,3 +6124,1514 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1657798844481	geckodriver	INFO	Listening on 127.0.0.1:55665
+1657798847446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55666" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileIjgcqq"
+1657798848630	Marionette	INFO	Marionette enabled
+1657798848637	Marionette	INFO	Listening on port 55673
+WebDriver BiDi listening on ws://localhost:55666
+1657798849372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileIjgcqq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55666/devtools/browser/51e276a7-7b5a-48bc-87ca-f4f3ef9647db
+JavaScript error: https://raritysniper.com/_app/pages/_...asset_asset_.svelte-a4721234.js, line 1: TypeError: T.traits is undefined
+1657798875417	Marionette	INFO	Stopped listening on port 55673
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657798887052	geckodriver	INFO	Listening on 127.0.0.1:55758
+1657798889994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55759" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileUg38pc"
+1657798890652	Marionette	INFO	Marionette enabled
+1657798890658	Marionette	INFO	Listening on port 55765
+WebDriver BiDi listening on ws://localhost:55759
+1657798891208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileUg38pc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55759/devtools/browser/da27b16d-ffc9-4bb7-9e97-224664f34a4d
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 148ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMAKefyBAQAAycXgjIEqhzzodxbazZEnuLow1EwAgB8QIyjF4NO-7fkUcgOi&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657798923260	Marionette	INFO	Stopped listening on port 55765
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657798955902	geckodriver	INFO	Listening on 127.0.0.1:55906
+1657798958859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55907" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile9jSwIt"
+1657798959538	Marionette	INFO	Marionette enabled
+1657798959546	Marionette	INFO	Listening on port 55912
+WebDriver BiDi listening on ws://localhost:55907
+1657798960063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile9jSwIt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55907/devtools/browser/08e96104-1ea7-47da-847d-4075ef41da05
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 93ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMAKefyBAQAAycXgjIEqhzzodxbazZEnuLow1EwAgB8QIyjF4NO-7fkUcgOi&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657799125072	Marionette	INFO	Stopped listening on port 55912
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657799182013	geckodriver	INFO	Listening on 127.0.0.1:56223
+1657799185024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56224" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileQysOJi"
+1657799185753	Marionette	INFO	Marionette enabled
+1657799185760	Marionette	INFO	Listening on port 56234
+WebDriver BiDi listening on ws://localhost:56224
+1657799186183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileQysOJi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56224/devtools/browser/c8b3234a-868e-4f1b-8e29-06e1fa611728
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 74ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMAKefyBAQAAycXgjIEqhzzodxbazZEnuLow1EwAgB8QIyjF4NO-7fkUcgOi&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/client/shared/source-map/index.js, line 189: Error: Line numbers must be >= 1
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657799429161	Marionette	INFO	Stopped listening on port 56234
+e-debugging-port" "56422" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilebi4Kzj"
+1657799309361	Marionette	INFO	Marionette enabled
+1657799309373	Marionette	INFO	Listening on port 56431
+WebDriver BiDi listening on ws://localhost:56422
+1657799309667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilebi4Kzj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56422/devtools/browser/859d8f3e-9d1c-494e-b65f-1c3a9960c36f
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 73ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMAKefyBAQAAycXgjIEqhzzodxbazZEnuLow1EwAgB8QIyjF4NO-7fkUcgOi&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657799427996	Marionette	INFO	Stopped listening on port 56431
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56673" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileOr7Da3"
+1657799425259	Marionette	INFO	Marionette enabled
+1657799425270	Marionette	INFO	Listening on port 56684
+WebDriver BiDi listening on ws://localhost:56673
+1657799425761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileOr7Da3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56673/devtools/browser/7f9e055a-ade3-41b2-a104-4b26b9097d1f
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 81ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMAKefyBAQAAycXgjIEqhzzodxbazZEnuLow1EwAgB8QIyjF4NO-7fkUcgOi&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657802257839	Marionette	INFO	Stopped listening on port 56684
+e-debugging-port" "56903" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileCb6WU0"
+1657799684541	Marionette	INFO	Marionette enabled
+1657799684549	Marionette	INFO	Listening on port 56908
+WebDriver BiDi listening on ws://localhost:56903
+1657799684959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileCb6WU0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56903/devtools/browser/eca98a3f-b775-49b7-80ad-48466db0b36c
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 105ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMAKefyBAQAAycXgjIEqhzzodxbazZEnuLow1EwAgB8QIyjF4NO-7fkUcgOi&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657802258793	Marionette	INFO	Stopped listening on port 56908
+e-debugging-port" "57110" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileFjPKuA"
+1657799847026	Marionette	INFO	Marionette enabled
+1657799847036	Marionette	INFO	Listening on port 57115
+WebDriver BiDi listening on ws://localhost:57110
+1657799847220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileFjPKuA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57110/devtools/browser/450eddb8-f306-4045-b5e1-52bbe6a9a396
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 206ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMAKefyBAQAAycXgjIEqhzzodxbazZEnuLow1EwAgB8QIyjF4NO-7fkUcgOi&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657800827483	Marionette	INFO	Stopped listening on port 57115
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57315" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilelVfjgF"
+1657799952948	Marionette	INFO	Marionette enabled
+1657799952958	Marionette	INFO	Listening on port 57323
+WebDriver BiDi listening on ws://localhost:57315
+1657799953193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilelVfjgF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57315/devtools/browser/1e776a1f-109e-49f1-8855-b105e38a2d77
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 76ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMAKefyBAQAAycXgjIEqhzzodxbazZEnuLow1EwAgB8QIyjF4NO-7fkUcgOi&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657800827020	Marionette	INFO	Stopped listening on port 57323
+e-debugging-port" "57487" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileW5lFif"
+1657800041923	Marionette	INFO	Marionette enabled
+1657800041933	Marionette	INFO	Listening on port 57503
+WebDriver BiDi listening on ws://localhost:57487
+1657800042172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileW5lFif\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57487/devtools/browser/e0a48515-7816-4363-8bed-eaa173537a8a
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 96ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AACClPyBAQAAkYoFKRROt5a_lmbFdeXTBZrshxSyyyWD-TKDzUzCEvOwMcLr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657800826226	Marionette	INFO	Stopped listening on port 57503
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57741" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile8MWzvP"
+1657800217415	Marionette	INFO	Marionette enabled
+1657800217424	Marionette	INFO	Listening on port 57747
+WebDriver BiDi listening on ws://localhost:57741
+1657800217759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile8MWzvP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57741/devtools/browser/36b0a9d6-c5e4-4691-b1c2-ad2afc5be641
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 109ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AACClPyBAQAAkYoFKRROt5a_lmbFdeXTBZrshxSyyyWD-TKDzUzCEvOwMcLr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657802260811	Marionette	INFO	Stopped listening on port 57747
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57934" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileYNwvo8"
+1657800327204	Marionette	INFO	Marionette enabled
+1657800327214	Marionette	INFO	Listening on port 57949
+WebDriver BiDi listening on ws://localhost:57934
+1657800327588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileYNwvo8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57934/devtools/browser/9c58c0af-f67b-422c-859c-e2c5422997a2
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 181ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AACClPyBAQAAkYoFKRROt5a_lmbFdeXTBZrshxSyyyWD-TKDzUzCEvOwMcLr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657800825721	Marionette	INFO	Stopped listening on port 57949
+e-debugging-port" "57269" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile0IHiyU"
+1657800531357	Marionette	INFO	Marionette enabled
+1657800531367	Marionette	INFO	Listening on port 57275
+WebDriver BiDi listening on ws://localhost:57269
+1657800531908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile0IHiyU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57269/devtools/browser/dcd47f71-8f11-425b-8845-c59895a487c8
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 70ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AACClPyBAQAAkYoFKRROt5a_lmbFdeXTBZrshxSyyyWD-TKDzUzCEvOwMcLr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657800824907	Marionette	INFO	Stopped listening on port 57275
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57521" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofiledyQlNB"
+1657800648256	Marionette	INFO	Marionette enabled
+1657800648264	Marionette	INFO	Listening on port 57527
+WebDriver BiDi listening on ws://localhost:57521
+1657800648725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofiledyQlNB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57521/devtools/browser/38f53660-4ea4-466e-b555-d928663512bb
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 156ms)
+1657800670203	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AACClPyBAQAAkYoFKRROt5a_lmbFdeXTBZrshxSyyyWD-TKDzUzCEvOwMcLr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657800827866	Marionette	INFO	Stopped listening on port 57527
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9284, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+44	Marionette	INFO	Listening on port 57734
+WebDriver BiDi listening on ws://localhost:57727
+1657800792537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileIvK1BJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57727/devtools/browser/8fb1f477-eb21-4d9b-917f-066dd548bff1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 86ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AACClPyBAQAAkYoFKRROt5a_lmbFdeXTBZrshxSyyyWD-TKDzUzCEvOwMcLr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657802262869	Marionette	INFO	Stopped listening on port 57734
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58144" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilezwMs1I"
+1657801652522	Marionette	INFO	Marionette enabled
+1657801652532	Marionette	INFO	Listening on port 58150
+WebDriver BiDi listening on ws://localhost:58144
+1657801652771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilezwMs1I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58144/devtools/browser/7681c9c5-1d9b-4545-ac5f-09bf457c5530
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 117ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AACClPyBAQAAkYoFKRROt5a_lmbFdeXTBZrshxSyyyWD-TKDzUzCEvOwMcLr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657802263568	Marionette	INFO	Stopped listening on port 58150
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51083" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileDU7HhV"
+1657801861325	Marionette	INFO	Marionette enabled
+1657801861339	Marionette	INFO	Listening on port 51090
+WebDriver BiDi listening on ws://localhost:51083
+1657801861981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileDU7HhV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51083/devtools/browser/8546449d-7dac-4abf-829a-01e667a6a02c
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 160ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AED5r_yBAQAAnXGH-ecgfsq0LyQ7eWyKsOJ-drVBxWIYCCko1MJG6YzwH4vd&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657801882161	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1657802265098	Marionette	INFO	Stopped listening on port 51090
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51509" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilezXFh1f"
+1657802023847	Marionette	INFO	Marionette enabled
+1657802023854	Marionette	INFO	Listening on port 51516
+WebDriver BiDi listening on ws://localhost:51509
+1657802024159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilezXFh1f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51509/devtools/browser/394d95ed-5a8f-463f-8a09-d1be8ff4e914
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 94ms)
+1657802042326	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AED5r_yBAQAAnXGH-ecgfsq0LyQ7eWyKsOJ-drVBxWIYCCko1MJG6YzwH4vd&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657802266034	Marionette	INFO	Stopped listening on port 51516
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51749" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileEbZF3Y"
+1657802150197	Marionette	INFO	Marionette enabled
+1657802150210	Marionette	INFO	Listening on port 51782
+WebDriver BiDi listening on ws://localhost:51749
+1657802150665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileEbZF3Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51749/devtools/browser/f09557ee-ca41-4314-a3fa-e948ee0dbf59
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 85ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AED5r_yBAQAAnXGH-ecgfsq0LyQ7eWyKsOJ-drVBxWIYCCko1MJG6YzwH4vd&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657802691402	Marionette	INFO	Stopped listening on port 51782
+!!! error running onStopped callback: TypeError: callback is not a function
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52149" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileLzuUDg"
+1657802280617	Marionette	INFO	Marionette enabled
+1657802280655	Marionette	INFO	Listening on port 52161
+WebDriver BiDi listening on ws://localhost:52149
+1657802281203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileLzuUDg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52149/devtools/browser/8ac17a61-e2ad-49a4-ad66-34f509d284d6
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Unable to find target with innerWindowId:4294967298"
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: asm.js type error: Asm.js optimizer disabled because debugger is active
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AED5r_yBAQAAnXGH-ecgfsq0LyQ7eWyKsOJ-drVBxWIYCCko1MJG6YzwH4vd&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:4294967299"
+console.error: "Unable to find target with innerWindowId:4294967299"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657802691038	Marionette	INFO	Stopped listening on port 52161
+!!! error running onStopped callback: TypeError: callback is not a function
+pData\\Local\\Temp\\rust_mozprofileY0Zllb"
+1657802323802	Marionette	INFO	Marionette enabled
+1657802323812	Marionette	INFO	Listening on port 52616
+WebDriver BiDi listening on ws://localhost:52607
+1657802324175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileY0Zllb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52607/devtools/browser/a8de12e9-6fd9-4603-8ddb-d6be93043ece
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 420ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AED5r_yBAQAAnXGH-ecgfsq0LyQ7eWyKsOJ-drVBxWIYCCko1MJG6YzwH4vd&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657802347879	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1657802690950	Marionette	INFO	Stopped listening on port 52616
+!!! error running onStopped callback: TypeError: callback is not a function
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53029" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilelvIqww"
+1657802425461	Marionette	INFO	Marionette enabled
+1657802425470	Marionette	INFO	Listening on port 53036
+WebDriver BiDi listening on ws://localhost:53029
+1657802425779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilelvIqww\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53029/devtools/browser/6623a3f1-659f-479c-a248-4f4fb97ae612
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 72ms)
+1657802445958	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AED5r_yBAQAAnXGH-ecgfsq0LyQ7eWyKsOJ-drVBxWIYCCko1MJG6YzwH4vd&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657802691078	Marionette	INFO	Stopped listening on port 53036
+!!! error running onStopped callback: TypeError: callback is not a function
+pData\\Local\\Temp\\rust_mozprofile8gkeAq"
+1657802586661	Marionette	INFO	Marionette enabled
+1657802586671	Marionette	INFO	Listening on port 53399
+WebDriver BiDi listening on ws://localhost:53393
+1657802587002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile8gkeAq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53393/devtools/browser/79697b22-a754-41ff-b0aa-498987b99d6c
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 90ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AED5r_yBAQAAnXGH-ecgfsq0LyQ7eWyKsOJ-drVBxWIYCCko1MJG6YzwH4vd&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 107ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AED5r_yBAQAAnXGH-ecgfsq0LyQ7eWyKsOJ-drVBxWIYCCko1MJG6YzwH4vd&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 108ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AED5r_yBAQAAnXGH-ecgfsq0LyQ7eWyKsOJ-drVBxWIYCCko1MJG6YzwH4vd&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 109ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AED5r_yBAQAAnXGH-ecgfsq0LyQ7eWyKsOJ-drVBxWIYCCko1MJG6YzwH4vd&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657802690642	Marionette	INFO	Stopped listening on port 53399
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53661" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile9RGXSd"
+1657802693053	Marionette	INFO	Marionette enabled
+1657802693067	Marionette	INFO	Listening on port 53667
+WebDriver BiDi listening on ws://localhost:53661
+1657802698729	geckodriver	INFO	Listening on 127.0.0.1:53678
+1657802701685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53679" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileYT8u4q"
+1657802702637	Marionette	INFO	Marionette enabled
+1657802702649	Marionette	INFO	Listening on port 53685
+WebDriver BiDi listening on ws://localhost:53679
+1657802702896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileYT8u4q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53679/devtools/browser/69ed5ce0-fe10-4d29-bba4-764c576cc020
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 67ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AED5r_yBAQAAnXGH-ecgfsq0LyQ7eWyKsOJ-drVBxWIYCCko1MJG6YzwH4vd&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 94ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AED5r_yBAQAAnXGH-ecgfsq0LyQ7eWyKsOJ-drVBxWIYCCko1MJG6YzwH4vd&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 113ms)
+1657802748736	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 157ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AED5r_yBAQAAnXGH-ecgfsq0LyQ7eWyKsOJ-drVBxWIYCCko1MJG6YzwH4vd&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657802791553	Marionette	INFO	Stopped listening on port 53685
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 23052, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:554
+1657805320446	geckodriver	INFO	Listening on 127.0.0.1:64854
+1657805323411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64855" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile6txU6l"
+1657805324337	Marionette	INFO	Marionette enabled
+1657805324344	Marionette	INFO	Listening on port 64862
+WebDriver BiDi listening on ws://localhost:64855
+1657805324568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile6txU6l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64855/devtools/browser/33ffdd5d-9f62-4178-a889-a72e49ea16fb
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 71ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIBwy_yBAQAA2RYE_Gc390s5waJpkiEtQ4Nr0fUMBxwEow4pGl__YMGhyPNi&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 125ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIBwy_yBAQAA2RYE_Gc390s5waJpkiEtQ4Nr0fUMBxwEow4pGl__YMGhyPNi&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 108ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIBwy_yBAQAA2RYE_Gc390s5waJpkiEtQ4Nr0fUMBxwEow4pGl__YMGhyPNi&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 98ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIBwy_yBAQAA2RYE_Gc390s5waJpkiEtQ4Nr0fUMBxwEow4pGl__YMGhyPNi&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 113ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMDn5vyBAQAAGUsVGudkDSYQPfUwPZreedf9GVbXhgeUqZ3OledcRx4cvPXp&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657806695481	Marionette	INFO	Stopped listening on port 64862
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65234" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile13G5wb"
+1657805571132	Marionette	INFO	Marionette enabled
+1657805571143	Marionette	INFO	Listening on port 65240
+WebDriver BiDi listening on ws://localhost:65234
+1657805571666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile13G5wb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65234/devtools/browser/e1069715-9249-493e-907a-c9adcb8fd101
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 75ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMDn5vyBAQAAGUsVGudkDSYQPfUwPZreedf9GVbXhgeUqZ3OledcRx4cvPXp&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 97ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMDn5vyBAQAAGUsVGudkDSYQPfUwPZreedf9GVbXhgeUqZ3OledcRx4cvPXp&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 106ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMDn5vyBAQAAGUsVGudkDSYQPfUwPZreedf9GVbXhgeUqZ3OledcRx4cvPXp&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 99ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMDn5vyBAQAAGUsVGudkDSYQPfUwPZreedf9GVbXhgeUqZ3OledcRx4cvPXp&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 78ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMDn5vyBAQAAGUsVGudkDSYQPfUwPZreedf9GVbXhgeUqZ3OledcRx4cvPXp&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 94ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMDn5vyBAQAAGUsVGudkDSYQPfUwPZreedf9GVbXhgeUqZ3OledcRx4cvPXp&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657805759614	Marionette	INFO	Stopped listening on port 65240
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657978094365	geckodriver	INFO	Listening on 127.0.0.1:60116
+1657978097311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60117" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile68BP4O"
+1657978098261	Marionette	INFO	Marionette enabled
+1657978098268	Marionette	INFO	Listening on port 60123
+WebDriver BiDi listening on ws://localhost:60117
+1657978098505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile68BP4O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60117/devtools/browser/c4e17f55-47ba-41ce-b5d8-3fa65b17af7a
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 198ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIAoGAeCAQAAhEVbN5RrBAlPjaNu2-csOEbdngjP3sCu3ZagfROqRDrECHww&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 250ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIAoGAeCAQAAhEVbN5RrBAlPjaNu2-csOEbdngjP3sCu3ZagfROqRDrECHww&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 227ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIAoGAeCAQAAhEVbN5RrBAlPjaNu2-csOEbdngjP3sCu3ZagfROqRDrECHww&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 218ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIAoGAeCAQAAhEVbN5RrBAlPjaNu2-csOEbdngjP3sCu3ZagfROqRDrECHww&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 114ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIAoGAeCAQAAhEVbN5RrBAlPjaNu2-csOEbdngjP3sCu3ZagfROqRDrECHww&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 258ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIAoGAeCAQAAhEVbN5RrBAlPjaNu2-csOEbdngjP3sCu3ZagfROqRDrECHww&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657978224319	geckodriver	INFO	Listening on 127.0.0.1:60271
+1657978227285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60272" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileVSl4Vj"
+1657978228056	Marionette	INFO	Marionette enabled
+1657978228063	Marionette	INFO	Listening on port 60277
+WebDriver BiDi listening on ws://localhost:60272
+1657978228444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileVSl4Vj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60272/devtools/browser/6621f614-dedd-4f2f-ada8-873e80ccdaf3
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 98ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 111ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 118ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 105ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 93ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 106ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 110ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 81ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 99ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 82ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 78ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 76ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 81ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 96ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 85ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 82ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 77ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 182ms)
+1657978470553	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 98ms)
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 219ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657978500279	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 269ms)
+1657978519587	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657979538859	Marionette	INFO	Stopped listening on port 60277
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62743" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilewKQV6b"
+1657979524802	Marionette	INFO	Marionette enabled
+1657979524815	Marionette	INFO	Listening on port 62749
+WebDriver BiDi listening on ws://localhost:62743
+1657979525209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilewKQV6b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62743/devtools/browser/1439723c-d943-4216-a642-63cb0b1ae0b0
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 229ms)
+1657979542567	Marionette	INFO	Stopped listening on port 62749
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 598: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 598: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1657979821394	geckodriver	INFO	Listening on 127.0.0.1:62983
+1657979824305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62984" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileqEUFP2"
+1657979825827	Marionette	INFO	Marionette enabled
+1657979825839	Marionette	INFO	Listening on port 62992
+WebDriver BiDi listening on ws://localhost:62984
+1657979826319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileqEUFP2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62984/devtools/browser/832c85e6-141a-4755-bdfb-4c2c5b0b7190
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 177ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657979886297	Marionette	INFO	Stopped listening on port 62992
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63108" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileCLm8yL"
+1657979865699	Marionette	INFO	Marionette enabled
+1657979865711	Marionette	INFO	Listening on port 63116
+WebDriver BiDi listening on ws://localhost:63108
+1657979866058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileCLm8yL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63108/devtools/browser/a0bb3e81-a3ad-487f-a5ca-289239a39a40
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 160ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMCfMweCAQAA1PlcNs-uZ_fV53L-XKt5WmxmplsaLTrlnMoeBhPQFKtW3Npr&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Corrupt JPEG data: 94 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 94 extraneous bytes before marker 0xd9
+1657979884581	Marionette	INFO	Stopped listening on port 63116
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657980071504	geckodriver	INFO	Listening on 127.0.0.1:58936
+1657980074385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58937" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile3M5ZJD"
+1657980076161	Marionette	INFO	Marionette enabled
+1657980076173	Marionette	INFO	Listening on port 58947
+WebDriver BiDi listening on ws://localhost:58937
+1657980076751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile3M5ZJD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58937/devtools/browser/77a13513-e7c4-4ae6-bc54-2fb058ab4292
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 280ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAAXTweCAQAADGuNv5Rz7TDcWq3a4CqQeOsuWo_drZxqvvy6TjBZoDuuqGOG&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 142ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAAXTweCAQAADGuNv5Rz7TDcWq3a4CqQeOsuWo_drZxqvvy6TjBZoDuuqGOG&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657980223904	Marionette	INFO	Stopped listening on port 58947
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657980247902	geckodriver	INFO	Listening on 127.0.0.1:59232
+1657980250867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59233" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileRrGdlE"
+1657980251721	Marionette	INFO	Marionette enabled
+1657980251730	Marionette	INFO	Listening on port 59238
+WebDriver BiDi listening on ws://localhost:59233
+1657980252175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileRrGdlE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59233/devtools/browser/e2d398dc-e128-4329-acc8-5e76410cecc9
+console.error: "Unable to find target with innerWindowId:4294967298"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657980577298	Marionette	INFO	Stopped listening on port 59238
+!!! error running onStopped callback: TypeError: callback is not a function
+pData\\Local\\Temp\\rust_mozprofiles83LQv"
+1657980445310	Marionette	INFO	Marionette enabled
+1657980445323	Marionette	INFO	Listening on port 59384
+WebDriver BiDi listening on ws://localhost:59375
+1657980445984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofiles83LQv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59375/devtools/browser/88ac0c75-fe63-4fd1-83c3-af7609af5e45
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657980576079	Marionette	INFO	Stopped listening on port 59384
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+te errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileDwxRC6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59484/devtools/browser/46c8faf8-4f21-450b-a629-791b26d75cd5
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 255ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAAXTweCAQAADGuNv5Rz7TDcWq3a4CqQeOsuWo_drZxqvvy6TjBZoDuuqGOG&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657980575419	Marionette	INFO	Stopped listening on port 59500
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657980789207	geckodriver	INFO	Listening on 127.0.0.1:59972
+1657980792164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59974" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileGb4oAv"
+1657980793137	Marionette	INFO	Marionette enabled
+1657980793146	Marionette	INFO	Listening on port 59980
+WebDriver BiDi listening on ws://localhost:59974
+1657980793487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileGb4oAv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59974/devtools/browser/30e84737-5d65-4295-82eb-6c768a0ed7ba
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657981185941	Marionette	INFO	Stopped listening on port 59980
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:237:26
+
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+60090
+1657980938446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileyMxO96\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60090/devtools/browser/5227a65b-e8cc-455b-8a67-a245be089175
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 270ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAAXTweCAQAADGuNv5Rz7TDcWq3a4CqQeOsuWo_drZxqvvy6TjBZoDuuqGOG&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657980968484	Marionette	INFO	Stopped listening on port 60098
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657981034855	geckodriver	INFO	Listening on 127.0.0.1:60224
+1657981037752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60225" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileEAtGWx"
+1657981038790	Marionette	INFO	Marionette enabled
+1657981038810	Marionette	INFO	Listening on port 60231
+WebDriver BiDi listening on ws://localhost:60225
+1657981039586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileEAtGWx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60225/devtools/browser/d94bf3ff-37e1-4050-8e34-a8720f4a1727
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 317ms)
+1657981057537	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAAXTweCAQAADGuNv5Rz7TDcWq3a4CqQeOsuWo_drZxqvvy6TjBZoDuuqGOG&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1657981194954	geckodriver	INFO	Listening on 127.0.0.1:60394
+1657981197855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60395" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileqiv5tT"
+1657981198894	Marionette	INFO	Marionette enabled
+1657981198905	Marionette	INFO	Listening on port 60400
+WebDriver BiDi listening on ws://localhost:60395
+1657981199521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileqiv5tT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60395/devtools/browser/f3e136b0-1e1f-4da0-93fa-5371cfd02d37
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 206ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAAXTweCAQAADGuNv5Rz7TDcWq3a4CqQeOsuWo_drZxqvvy6TjBZoDuuqGOG&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657981218642	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1657981413211	geckodriver	INFO	Listening on 127.0.0.1:60604
+1657981416084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60605" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofiletiCFbl"
+1657981417370	Marionette	INFO	Marionette enabled
+1657981417383	Marionette	INFO	Listening on port 60610
+WebDriver BiDi listening on ws://localhost:60605
+1657981417811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofiletiCFbl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60605/devtools/browser/32d22c93-4ff5-44b3-9248-907127dc06ad
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 227ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAAXTweCAQAADGuNv5Rz7TDcWq3a4CqQeOsuWo_drZxqvvy6TjBZoDuuqGOG&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657981579206	geckodriver	INFO	Listening on 127.0.0.1:60785
+1657981582059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60786" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileVRZA6h"
+1657981583676	Marionette	INFO	Marionette enabled
+1657981583693	Marionette	INFO	Listening on port 60791
+WebDriver BiDi listening on ws://localhost:60786
+1657981584387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileVRZA6h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60786/devtools/browser/dab4f3ed-481a-454c-8721-ca79d4a49509
+JavaScript error: , line 0: TypeError: error loading dynamically imported module
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 356ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAAXTweCAQAADGuNv5Rz7TDcWq3a4CqQeOsuWo_drZxqvvy6TjBZoDuuqGOG&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657981762596	geckodriver	INFO	Listening on 127.0.0.1:60972
+1657981765515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60973" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilewMVGAH"
+1657981767438	Marionette	INFO	Marionette enabled
+1657981767453	Marionette	INFO	Listening on port 60978
+WebDriver BiDi listening on ws://localhost:60973
+1657981767862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilewMVGAH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60973/devtools/browser/31b1160a-8697-413c-b807-b57e27dd9a70
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 224ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAAXTweCAQAADGuNv5Rz7TDcWq3a4CqQeOsuWo_drZxqvvy6TjBZoDuuqGOG&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657981843561	geckodriver	INFO	Listening on 127.0.0.1:61123
+1657981846444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61124" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile5grVpm"
+1657981891075	geckodriver	INFO	Listening on 127.0.0.1:61148
+1657981894013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61149" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilek571KV"
+1657981894826	Marionette	INFO	Marionette enabled
+1657981894835	Marionette	INFO	Listening on port 61155
+WebDriver BiDi listening on ws://localhost:61149
+1657981895161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilek571KV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61149/devtools/browser/24c20d81-a3a7-405e-9991-6225690bf5b3
+1657982390923	Marionette	INFO	Stopped listening on port 61155
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+INFO	Listening on port 61266
+WebDriver BiDi listening on ws://localhost:61261
+1657981953740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileBAwhEy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61261/devtools/browser/0ddbc18c-2936-4aac-9217-eebc000d1947
+1657982390214	Marionette	INFO	Stopped listening on port 61266
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+Di listening on ws://localhost:61384
+1657982007099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileQH2gMY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61384/devtools/browser/8e394245-fe3f-453f-9934-0ed3e9fbb2e7
+1657982390464	Marionette	INFO	Stopped listening on port 61390
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\R3E06~1.TAU\AppData\Local\Temp\rust_mozprofileQH2gMY\protections.sqlite
+abled
+1657982107719	Marionette	INFO	Listening on port 61490
+WebDriver BiDi listening on ws://localhost:61485
+1657982108113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileexTV6V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61485/devtools/browser/786e62b1-3c2c-4dd2-996e-5cf8fa18726b
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 96ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AECOageCAQAAmFdlZ9wvPY23BFbloog6k2XzV_mRNhiBELkVkDMUM9jr1hG9&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657982390471	Marionette	INFO	Stopped listening on port 61490
+!!! error running onStopped callback: TypeError: callback is not a function
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61616" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofiley0Gxnm"
+1657982164186	Marionette	INFO	Marionette enabled
+1657982164195	Marionette	INFO	Listening on port 61621
+WebDriver BiDi listening on ws://localhost:61616
+1657982164785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofiley0Gxnm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61616/devtools/browser/d057f430-28b9-4409-b9d7-20579eb1e389
+1657982390473	Marionette	INFO	Stopped listening on port 61621
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\R3E06~1.TAU\AppData\Local\Temp\rust_mozprofiley0Gxnm\protections.sqlite
+abled
+1657982302500	Marionette	INFO	Listening on port 61737
+WebDriver BiDi listening on ws://localhost:61728
+1657982302909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileuehlgn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61728/devtools/browser/26683b39-8655-4fbc-92c7-da30e4751cd5
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 163ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AECOageCAQAAmFdlZ9wvPY23BFbloog6k2XzV_mRNhiBELkVkDMUM9jr1hG9&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657982390665	Marionette	INFO	Stopped listening on port 61737
+!!! error running onStopped callback: TypeError: callback is not a function
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61869" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile53pJyw"
+1657982358360	Marionette	INFO	Marionette enabled
+1657982358372	Marionette	INFO	Listening on port 61876
+WebDriver BiDi listening on ws://localhost:61869
+1657982358653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile53pJyw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61869/devtools/browser/048ea65f-cc7c-4524-ac5e-4b1deaac5e7d
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 257ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AECOageCAQAAmFdlZ9wvPY23BFbloog6k2XzV_mRNhiBELkVkDMUM9jr1hG9&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657982390268	Marionette	INFO	Stopped listening on port 61876
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657982432554	geckodriver	INFO	Listening on 127.0.0.1:62115
+1657982435554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62116" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilewQdVRA"
+1657982436296	Marionette	INFO	Marionette enabled
+1657982436302	Marionette	INFO	Listening on port 62122
+WebDriver BiDi listening on ws://localhost:62116
+1657982436638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilewQdVRA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62116/devtools/browser/664ead2d-aeaa-4027-a37f-f31d21fdc2d7
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 114ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AECOageCAQAAmFdlZ9wvPY23BFbloog6k2XzV_mRNhiBELkVkDMUM9jr1hG9&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 128ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AECOageCAQAAmFdlZ9wvPY23BFbloog6k2XzV_mRNhiBELkVkDMUM9jr1hG9&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657986152704	Marionette	INFO	Stopped listening on port 62122
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62544" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilezNzhje"
+1657983013921	Marionette	INFO	Marionette enabled
+1657983013931	Marionette	INFO	Listening on port 62551
+WebDriver BiDi listening on ws://localhost:62544
+1657983014310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilezNzhje\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62544/devtools/browser/230b753c-774b-4321-9985-9ec99a15bd62
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 123ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AECOageCAQAAmFdlZ9wvPY23BFbloog6k2XzV_mRNhiBELkVkDMUM9jr1hG9&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657986153889	Marionette	INFO	Stopped listening on port 62551
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62684" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilemGXmQu"
+1657983073252	Marionette	INFO	Marionette enabled
+1657983073262	Marionette	INFO	Listening on port 62690
+WebDriver BiDi listening on ws://localhost:62684
+1657983073630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilemGXmQu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62684/devtools/browser/3fe8d268-91df-4013-aead-d490f0371825
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 124ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AECOageCAQAAmFdlZ9wvPY23BFbloog6k2XzV_mRNhiBELkVkDMUM9jr1hG9&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 79ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AECOageCAQAAmFdlZ9wvPY23BFbloog6k2XzV_mRNhiBELkVkDMUM9jr1hG9&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[Parent 28184, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1657986155048	Marionette	INFO	Stopped listening on port 62690
+!!! error running onStopped callback: TypeError: callback is not a function
+ost:62997
+1657983496743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilerKRYct\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62997/devtools/browser/dfd90f8e-0639-4234-bfce-3becd7be9cfc
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 71ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AECOageCAQAAmFdlZ9wvPY23BFbloog6k2XzV_mRNhiBELkVkDMUM9jr1hG9&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657986155886	Marionette	INFO	Stopped listening on port 63004
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63221" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileMnUI3D"
+1657983644237	Marionette	INFO	Marionette enabled
+1657983644249	Marionette	INFO	Listening on port 63228
+WebDriver BiDi listening on ws://localhost:63221
+1657983644606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileMnUI3D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63221/devtools/browser/19e477c8-98f4-4eee-931c-38fbea978c55
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 107ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIAFhgeCAQAAg5RrbchDAgD28ttb0qwanbm2gdqvSsVG8f7IHkVxKBNcqMuC&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657983693795	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 112ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIAFhgeCAQAAg5RrbchDAgD28ttb0qwanbm2gdqvSsVG8f7IHkVxKBNcqMuC&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657983749110	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657986156947	Marionette	INFO	Stopped listening on port 63228
+e-debugging-port" "58451" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilesB1sNL"
+1657984784350	Marionette	INFO	Marionette enabled
+1657984784359	Marionette	INFO	Listening on port 58460
+WebDriver BiDi listening on ws://localhost:58451
+1657984784574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilesB1sNL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58451/devtools/browser/7e3f8983-f5dc-4010-8ab0-2d71223eb35b
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 137ms)
+1657984800545	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIAFhgeCAQAAg5RrbchDAgD28ttb0qwanbm2gdqvSsVG8f7IHkVxKBNcqMuC&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657986157922	Marionette	INFO	Stopped listening on port 58460
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58810" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofiled3sod2"
+1657985133580	Marionette	INFO	Marionette enabled
+1657985133589	Marionette	INFO	Listening on port 58815
+WebDriver BiDi listening on ws://localhost:58810
+1657985133955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofiled3sod2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58810/devtools/browser/dd834677-ef67-4da9-b444-96b3db85609f
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 160ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIAFhgeCAQAAg5RrbchDAgD28ttb0qwanbm2gdqvSsVG8f7IHkVxKBNcqMuC&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 95ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIAFhgeCAQAAg5RrbchDAgD28ttb0qwanbm2gdqvSsVG8f7IHkVxKBNcqMuC&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 119ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIAFhgeCAQAAg5RrbchDAgD28ttb0qwanbm2gdqvSsVG8f7IHkVxKBNcqMuC&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657986163327	Marionette	INFO	Stopped listening on port 58815
+!!! error running onStopped callback: TypeError: callback is not a function
+pData\\Local\\Temp\\rust_mozprofile4HRtZI"
+1657985922582	Marionette	INFO	Marionette enabled
+1657985922592	Marionette	INFO	Listening on port 59713
+WebDriver BiDi listening on ws://localhost:59707
+1657985922837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile4HRtZI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59707/devtools/browser/ec2d959b-4745-4352-939c-5a483b9cda34
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 126ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMB8oQeCAQAAUN2UJrmzNwYaPnoW4J3Y8Kf-4yYxcPet97yMXywoWL3z6R8j&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657986159915	Marionette	INFO	Stopped listening on port 59713
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59830" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilehvkiBJ"
+1657985960122	Marionette	INFO	Marionette enabled
+1657985960131	Marionette	INFO	Listening on port 59836
+WebDriver BiDi listening on ws://localhost:59830
+1657985960624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilehvkiBJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59830/devtools/browser/91738f15-bf78-4de9-97f8-9dd4f6f0e169
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 193ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMB8oQeCAQAAUN2UJrmzNwYaPnoW4J3Y8Kf-4yYxcPet97yMXywoWL3z6R8j&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657986160965	Marionette	INFO	Stopped listening on port 59836
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59958" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilevX6pl2"
+1657985995465	Marionette	INFO	Marionette enabled
+1657985995477	Marionette	INFO	Listening on port 59966
+WebDriver BiDi listening on ws://localhost:59958
+1657985996038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilevX6pl2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59958/devtools/browser/8cafa53d-6f36-4cf1-9d64-99c10a28aa99
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 287ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMB8oQeCAQAAUN2UJrmzNwYaPnoW4J3Y8Kf-4yYxcPet97yMXywoWL3z6R8j&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657986162094	Marionette	INFO	Stopped listening on port 59966
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60103" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileFCOtuD"
+1657986061302	Marionette	INFO	Marionette enabled
+1657986061310	Marionette	INFO	Listening on port 60111
+WebDriver BiDi listening on ws://localhost:60103
+1657986061693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileFCOtuD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60103/devtools/browser/791f5328-8ca2-47c4-afae-552aff9c8049
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 261ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMB8oQeCAQAAUN2UJrmzNwYaPnoW4J3Y8Kf-4yYxcPet97yMXywoWL3z6R8j&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657986312799	Marionette	INFO	Stopped listening on port 60111
+e-debugging-port" "60246" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileEjACZ0"
+1657986159273	Marionette	INFO	Marionette enabled
+1657986159308	Marionette	INFO	Listening on port 60256
+WebDriver BiDi listening on ws://localhost:60246
+1657986159879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileEjACZ0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60246/devtools/browser/a100aa03-0577-4f98-8166-8f8f871b1b34
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 240ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMB8oQeCAQAAUN2UJrmzNwYaPnoW4J3Y8Kf-4yYxcPet97yMXywoWL3z6R8j&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657986312806	Marionette	INFO	Stopped listening on port 60256
+!!! error running onStopped callback: TypeError: callback is not a function
+1657986334093	geckodriver	INFO	Listening on 127.0.0.1:60438
+1657986337053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60439" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileOlBdLn"
+1657986337762	Marionette	INFO	Marionette enabled
+1657986337769	Marionette	INFO	Listening on port 60445
+WebDriver BiDi listening on ws://localhost:60439
+1657986338278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileOlBdLn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60439/devtools/browser/135f8ca6-a529-4684-8d76-b10074e2799b
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 105ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMB8oQeCAQAAUN2UJrmzNwYaPnoW4J3Y8Kf-4yYxcPet97yMXywoWL3z6R8j&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657986543993	Marionette	INFO	Stopped listening on port 60445
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60601" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileguGPXR"
+1657986460323	Marionette	INFO	Marionette enabled
+1657986460334	Marionette	INFO	Listening on port 60606
+WebDriver BiDi listening on ws://localhost:60601
+1657986460620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileguGPXR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60601/devtools/browser/66c64fc5-60ff-4243-8dce-519f005fef79
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 120ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMB8oQeCAQAAUN2UJrmzNwYaPnoW4J3Y8Kf-4yYxcPet97yMXywoWL3z6R8j&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657986608433	Marionette	INFO	Stopped listening on port 60606
+e-debugging-port" "60738" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileh4xuiP"
+1657986546156	Marionette	INFO	Marionette enabled
+1657986546162	Marionette	INFO	Listening on port 60744
+WebDriver BiDi listening on ws://localhost:60738
+1657986546790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileh4xuiP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60738/devtools/browser/1e3c79c0-89f8-48ce-bbf3-2bac512ec8f9
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 125ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMB8oQeCAQAAUN2UJrmzNwYaPnoW4J3Y8Kf-4yYxcPet97yMXywoWL3z6R8j&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657986557213	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1657986611089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60877" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile3kn4t5"
+1657986612157	Marionette	INFO	Marionette enabled
+1657986612168	Marionette	INFO	Listening on port 60885
+WebDriver BiDi listening on ws://localhost:60877
+1657986612888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile3kn4t5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60877/devtools/browser/0970097d-052f-49db-99fa-ee795b09b804
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 159ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMB8oQeCAQAAUN2UJrmzNwYaPnoW4J3Y8Kf-4yYxcPet97yMXywoWL3z6R8j&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 134ms)
+1657986637075	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMB8oQeCAQAAUN2UJrmzNwYaPnoW4J3Y8Kf-4yYxcPet97yMXywoWL3z6R8j&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657987335945	Marionette	INFO	Stopped listening on port 60885
+!!! error running onStopped callback: TypeError: callback is not a function
+pData\\Local\\Temp\\rust_mozprofiletiuNdV"
+1657986839508	Marionette	INFO	Marionette enabled
+1657986839520	Marionette	INFO	Listening on port 61065
+WebDriver BiDi listening on ws://localhost:61060
+1657986840393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofiletiuNdV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61060/devtools/browser/6dc285b3-adfc-4411-a006-5ef32f91d2d1
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 180ms)
+1657986855079	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMB8oQeCAQAAUN2UJrmzNwYaPnoW4J3Y8Kf-4yYxcPet97yMXywoWL3z6R8j&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 154ms)
+1657986872406	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMB8oQeCAQAAUN2UJrmzNwYaPnoW4J3Y8Kf-4yYxcPet97yMXywoWL3z6R8j&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657987335915	Marionette	INFO	Stopped listening on port 61065
+!!! error running onStopped callback: TypeError: callback is not a function
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61242" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileh3D2ln"
+1657986898856	Marionette	INFO	Marionette enabled
+1657986898869	Marionette	INFO	Listening on port 61247
+WebDriver BiDi listening on ws://localhost:61242
+1657986899114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileh3D2ln\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61242/devtools/browser/d8cc12f4-2fd7-45ee-aff4-d28f07bc7d5a
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 216ms)
+1657986911362	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 146ms)
+1657986924027	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 138ms)
+1657986941969	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 86ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMB8oQeCAQAAUN2UJrmzNwYaPnoW4J3Y8Kf-4yYxcPet97yMXywoWL3z6R8j&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657987335919	Marionette	INFO	Stopped listening on port 61247
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 37460, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+ost:61491
+1657987253421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilepkCnk5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61491/devtools/browser/bb2cefa9-14de-4962-8c4b-f179d6fd760e
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 153ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657987335799	Marionette	INFO	Stopped listening on port 61496
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657987340614	geckodriver	INFO	Listening on 127.0.0.1:61668
+1657987343504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61669" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileLrVlx7"
+1657987344208	Marionette	INFO	Marionette enabled
+1657987344213	Marionette	INFO	Listening on port 61674
+WebDriver BiDi listening on ws://localhost:61669
+1657987344686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileLrVlx7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61669/devtools/browser/6f5f583a-7772-4d5c-a5bd-46eeaaee0647
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 170ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657987527547	Marionette	INFO	Stopped listening on port 61674
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50821" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilez9WakJ"
+1657987394123	Marionette	INFO	Marionette enabled
+1657987394135	Marionette	INFO	Listening on port 50826
+WebDriver BiDi listening on ws://localhost:50821
+1657987394413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilez9WakJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50821/devtools/browser/630ab7c5-f050-4b17-9196-338c3ad6ad62
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 159ms)
+1657987405572	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657987526804	Marionette	INFO	Stopped listening on port 50826
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51053" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileOvL1cL"
+1657987447896	Marionette	INFO	Marionette enabled
+1657987447908	Marionette	INFO	Listening on port 51061
+WebDriver BiDi listening on ws://localhost:51053
+1657987448286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileOvL1cL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51053/devtools/browser/6c8f0b44-50eb-49cb-92b0-2fbad1a55611
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 174ms)
+1657987463180	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 128ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 94ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 194ms)
+1657987514207	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657987525855	Marionette	INFO	Stopped listening on port 51061
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657987629253	geckodriver	INFO	Listening on 127.0.0.1:51489
+1657987632198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51491" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilegd1h4j"
+1657987633112	Marionette	INFO	Marionette enabled
+1657987633120	Marionette	INFO	Listening on port 51496
+WebDriver BiDi listening on ws://localhost:51491
+1657987633333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilegd1h4j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51491/devtools/browser/14154e86-82aa-488d-93e6-f1827cf8f3fe
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 150ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 103ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 107ms)
+1657987670450	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 120ms)
+1657987686538	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657987839126	Marionette	INFO	Stopped listening on port 51496
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20776, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1657987842955	geckodriver	INFO	Listening on 127.0.0.1:51676
+1657987845925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51677" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilehXaUwg"
+1657987846845	Marionette	INFO	Marionette enabled
+1657987846858	Marionette	INFO	Listening on port 51682
+WebDriver BiDi listening on ws://localhost:51677
+1657987847153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilehXaUwg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51677/devtools/browser/ce7fc026-c7b0-46e1-a969-bb0374ec3dfd
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 136ms)
+1657987857214	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 162ms)
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 127ms)
+1657987889946	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 113ms)
+1657987907078	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657987932844	geckodriver	INFO	Listening on 127.0.0.1:51925
+1657987935820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51926" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile4WgDWb"
+1657987936461	Marionette	INFO	Marionette enabled
+1657987936468	Marionette	INFO	Listening on port 51933
+WebDriver BiDi listening on ws://localhost:51926
+1657987937068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile4WgDWb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51926/devtools/browser/3a4f004a-dd90-4d04-9d78-2e11c461b80b
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 125ms)
+1657987949178	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 143ms)
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 114ms)
+1657987978850	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1657987992690	geckodriver	INFO	Listening on 127.0.0.1:52162
+1657987995617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52163" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilenYGzRl"
+1657987996353	Marionette	INFO	Marionette enabled
+1657987996359	Marionette	INFO	Listening on port 52170
+WebDriver BiDi listening on ws://localhost:52163
+1657987996779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofilenYGzRl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52163/devtools/browser/e9b25fc4-25e0-4d0b-b8d6-f2c03c16d606
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 130ms)
+1657988009011	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 1025ms)
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 114ms)
+1657988039415	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 128ms)
+1657988058145	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657988261445	Marionette	INFO	Stopped listening on port 52170
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52532" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileDfX3VN"
+1657988127242	Marionette	INFO	Marionette enabled
+1657988127250	Marionette	INFO	Listening on port 52538
+WebDriver BiDi listening on ws://localhost:52532
+1657988127649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileDfX3VN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52532/devtools/browser/7b7e5b1a-8af0-438b-8df0-6f0bff3d06f9
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 144ms)
+1657988140290	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 122ms)
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 103ms)
+1657988171207	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 122ms)
+1657988185378	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657988261456	Marionette	INFO	Stopped listening on port 52538
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52706" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileH0XTBT"
+1657988258735	Marionette	INFO	Marionette enabled
+1657988258744	Marionette	INFO	Listening on port 52713
+WebDriver BiDi listening on ws://localhost:52706
+1657988259091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileH0XTBT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52706/devtools/browser/e6d37d4f-3c44-43f1-9434-6749e6bbca9d
+1657988261444	Marionette	INFO	Stopped listening on port 52713
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 46108, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1657988268644	geckodriver	INFO	Listening on 127.0.0.1:52743
+1657988271613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52744" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileiNC3qv"
+1657988272781	Marionette	INFO	Marionette enabled
+1657988272792	Marionette	INFO	Listening on port 52750
+WebDriver BiDi listening on ws://localhost:52744
+1657988273269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileiNC3qv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52744/devtools/browser/55fdb9a6-f681-4c42-98cd-2520963bffbe
+1657988313638	geckodriver	INFO	Listening on 127.0.0.1:52830
+1657988316570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52831" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileHSwH71"
+1657988317207	Marionette	INFO	Marionette enabled
+1657988317215	Marionette	INFO	Listening on port 52837
+WebDriver BiDi listening on ws://localhost:52831
+1657988317845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileHSwH71\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52831/devtools/browser/a1567f43-8d20-42cc-8b0c-9d2e2185da89
+1657988358709	geckodriver	INFO	Listening on 127.0.0.1:52911
+1657988361689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52912" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileruTUtw"
+1657988362455	Marionette	INFO	Marionette enabled
+1657988362466	Marionette	INFO	Listening on port 52918
+WebDriver BiDi listening on ws://localhost:52912
+1657988362851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileruTUtw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52912/devtools/browser/030bef09-2592-40c5-8e45-74a6d3aca0a8
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 92ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 123ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657988393102	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 129ms)
+1657988408979	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 191ms)
+1657988425789	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657988927700	geckodriver	INFO	Listening on 127.0.0.1:53501
+1657988930621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53502" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileSgotjo"
+1657988931483	Marionette	INFO	Marionette enabled
+1657988931493	Marionette	INFO	Listening on port 53508
+WebDriver BiDi listening on ws://localhost:53502
+1657988931771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileSgotjo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53502/devtools/browser/36b27a35-84dd-4d65-b09a-dfe9658a4a6d
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 214ms)
+1657988944715	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 121ms)
+1657988959971	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 113ms)
+1657988974323	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 126ms)
+1657988989187	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AAD0vAeCAQAA_x-11NuxZqbWoZ0MEuEfEsXsTfaZZoFhlSm2eTFsrsOVX6sn&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657989073993	geckodriver	INFO	Listening on 127.0.0.1:53664
+1657989076938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53665" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileV03MDu"
+1657989077731	Marionette	INFO	Marionette enabled
+1657989077741	Marionette	INFO	Listening on port 53671
+WebDriver BiDi listening on ws://localhost:53665
+1657989078114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileV03MDu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53665/devtools/browser/cf66c178-edd2-48da-b99a-93041204b984
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 238ms)
+1657989091377	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 139ms)
+1657989107487	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 124ms)
+1657989123896	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1657989143449	geckodriver	INFO	Listening on 127.0.0.1:53936
+1657989146390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53937" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile0XZfxq"
+1657989147031	Marionette	INFO	Marionette enabled
+1657989147040	Marionette	INFO	Listening on port 53943
+WebDriver BiDi listening on ws://localhost:53937
+1657989147636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile0XZfxq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53937/devtools/browser/f6573694-f106-4582-a50f-1ab5c0e50105
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 152ms)
+1657989157393	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 125ms)
+1657989172576	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 149ms)
+1657989187243	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1657989228309	geckodriver	INFO	Listening on 127.0.0.1:54080
+1657989231283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54081" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileq18xpy"
+1657989232223	Marionette	INFO	Marionette enabled
+1657989232233	Marionette	INFO	Listening on port 54088
+WebDriver BiDi listening on ws://localhost:54081
+1657989232536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileq18xpy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54081/devtools/browser/5e112716-8ec7-44f5-aaca-419653dc4abe
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 96ms)
+1657989246601	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 135ms)
+1657989260564	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AEBr2AeCAQAANe6ej53D1zRvmqGn1TRVZzcXpej57oQEox2uL72NIBvY4RuZ&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657989269641	Marionette	INFO	Stopped listening on port 54088
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657989294535	geckodriver	INFO	Listening on 127.0.0.1:54220
+1657989297453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54221" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileOYiWMT"
+1657989298474	Marionette	INFO	Marionette enabled
+1657989298485	Marionette	INFO	Listening on port 54226
+WebDriver BiDi listening on ws://localhost:54221
+1657989299417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileOYiWMT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54221/devtools/browser/bd0aef3e-56ff-4aeb-91ef-c209c2acdd3e
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 148ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AEBr2AeCAQAANe6ej53D1zRvmqGn1TRVZzcXpej57oQEox2uL72NIBvY4RuZ&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 107ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AEBr2AeCAQAANe6ej53D1zRvmqGn1TRVZzcXpej57oQEox2uL72NIBvY4RuZ&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 103ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AEBr2AeCAQAANe6ej53D1zRvmqGn1TRVZzcXpej57oQEox2uL72NIBvY4RuZ&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 102ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AEBr2AeCAQAANe6ej53D1zRvmqGn1TRVZzcXpej57oQEox2uL72NIBvY4RuZ&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657989411476	Marionette	INFO	Stopped listening on port 54226
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657989692121	geckodriver	INFO	Listening on 127.0.0.1:54594
+1657989695099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54595" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileFBPG5R"
+1657989695788	Marionette	INFO	Marionette enabled
+1657989695796	Marionette	INFO	Listening on port 54600
+WebDriver BiDi listening on ws://localhost:54595
+1657989696409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileFBPG5R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54595/devtools/browser/ac74100e-8e09-4ff4-ad36-62300241e825
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 152ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AEBr2AeCAQAANe6ej53D1zRvmqGn1TRVZzcXpej57oQEox2uL72NIBvY4RuZ&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 118ms)
+1657989719059	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 111ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AEBr2AeCAQAANe6ej53D1zRvmqGn1TRVZzcXpej57oQEox2uL72NIBvY4RuZ&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657989740117	Marionette	INFO	Stopped listening on port 54600
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657990772898	geckodriver	INFO	Listening on 127.0.0.1:55014
+1657990775838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55015" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile1rzTvU"
+1657990776805	Marionette	INFO	Marionette enabled
+1657990776813	Marionette	INFO	Listening on port 55020
+WebDriver BiDi listening on ws://localhost:55015
+1657990777017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile1rzTvU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55015/devtools/browser/acdb7e1b-c4dc-4f2c-9108-15462b9df187
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 137ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AEBr2AeCAQAANe6ej53D1zRvmqGn1TRVZzcXpej57oQEox2uL72NIBvY4RuZ&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 112ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIDi8weCAQAAXzw_ZbYh61RKJaYiL_TuqiO7pNBEkqPRC5RFFV4BYEdVMoBS&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 117ms)
+1657990818170	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIDi8weCAQAAXzw_ZbYh61RKJaYiL_TuqiO7pNBEkqPRC5RFFV4BYEdVMoBS&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 107ms)
+1657990831818	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AIDi8weCAQAAXzw_ZbYh61RKJaYiL_TuqiO7pNBEkqPRC5RFFV4BYEdVMoBS&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
