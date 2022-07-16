@@ -6,7 +6,7 @@ from abc import abstractmethod, ABC
 import pyperclip
 from utils.webdriver_initializer import FirefoxDriverWrapper
 from scripts.get_wallets_ETH import get_account_ballance
-from config.config_data import RarityConfig, OSConfig
+from config.config_data import RarityConfig
 from selenium import webdriver 
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
@@ -62,7 +62,7 @@ class RarityWebsiteRunner(FirefoxDriverWrapper):
             self.check_id(self.id)
         if self.rank is not None:
             from_rank = int(self.rank[0])
-            to_rank = int(self.rank[1])
+            to_rank = int(self.rank[1]) 
             while from_rank <= to_rank:
                 self.driver.implicitly_wait(2)
                 self.check_id(str(from_rank))
@@ -75,16 +75,15 @@ class RarityWebsiteRunner(FirefoxDriverWrapper):
         rarity_score = self.driver.find_element(By.XPATH, self.Rarityconfig.rarity_score).text
         self.driver.implicitly_wait(4)
         owner_OS = self.driver.find_element(By.XPATH, self.Rarityconfig.owner_OS).get_attribute('href')
-        # links = [elem.get_attribute('href') for elem in owner]
-        print(owner_OS)
-        self.OS_user(owner_OS)
+        owner, eth, collected = self.OS_user(owner_OS)
         if self.selling is not None:
             try:
                 price = self.driver.find_element(By.XPATH, self.Rarityconfig.listed).text
             except NoSuchElementException:
                 price = "UNLISTED"
-        #     print("The rank and id are %s rarity score %s owner is %s and market value %s" % (rank_id, rarity_score, owner, price))
-        # print("The rank and id are %s rarity score %s owner is %s" % (rank_id, rarity_score, owner))
+            print("The id: %s rarity score: %s owner: %s  market value %s overall collected: %s wallets ETH %s" % (collection_id, rarity_score[13:], owner, price, eth, collected))
+        else:
+            print("The id: %s rarity score: %s owner: %s overall collected: %s wallets ETH %s" % (collection_id, rarity_score[13:], owner, eth, collected))
             
 
     def OS_user(self, url):
@@ -95,8 +94,12 @@ class RarityWebsiteRunner(FirefoxDriverWrapper):
         address = self.get_ETH_address(owner)
         #get ETH
         eth = get_account_ballance(address)
-        collected = self.driver.find_element(By.XPATH, self.Rarityconfig.OS_Collected).text
-        print('Users wallet is %s and has collected %s and has balance of %s' % (owner, collected, eth))
+        try:
+            collected = self.driver.find_element(By.XPATH, self.Rarityconfig.OS_Collected).text
+        except:
+            collected = self.driver.find_element(By.XPATH, self.Rarityconfig.OS_Collected_2).text
+        # print('Users wallet is %s and has collected %s and has balance of %s' % (owner, collected, eth))
+        return owner, eth, collected
 
     def get_ETH_address(self, owner):
         if owner.startswith('0x') and len(owner) >= 20:
@@ -109,7 +112,6 @@ class RarityWebsiteRunner(FirefoxDriverWrapper):
             except:
                 self.driver.find_element(By.XPATH, self.Rarityconfig.OS_ETH_address_2).click()
             eth_address = pyperclip.paste()
-            print(eth_address)
             return eth_address
         # print(self.driver.find_element(By.XPATH, self.OSConfig.test).text)
         # self.driver.get()
@@ -133,4 +135,3 @@ if __name__ == '__main__':
     #args_ = parse
     #factory = EssentialsWorkflowRunnerFactory() if args_.only_run_essentials else ManualWorkflowRunnerFactory()
     RarityWebsiteRunner(args)
-    

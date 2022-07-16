@@ -19,9 +19,11 @@ class RarityConfig:
     owner_OS: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[2]/div[2]/a'
     listed: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[2]/div[1]/a/div/span/span[2]'
 
-    OS_Collected: str = '/html/body/div[1]/div/main/div/div/div[1]/ul/li[1]/a/div/span'
-    OS_ETH_address: str = '/html/body/div[1]/div/main/div/div/div[1]/div[3]/div[3]/div[2]'
+    OS_Collected: str = '/html/body/div[1]/div/main/div/div/div[5]/div/div[2]/div/div/div[2]/nav/ul/li[1]/a/span[2]'
+    OS_Collected_2: str = '/html/body/div[1]/div/main/div/div/div[5]/div/div[1]/div/div/div[2]/nav/ul/li[1]/a/span[2]'
+    OS_ETH_address: str = '/html/body/div[1]/div/main/div/div/div[4]/div/div/div[1]/div/div/div[1]/a/div/button'
     OS_ETH_address_2: str = '/html/body/div[1]/div/main/div/div/div[1]/div[3]/div[3]/div'
+
     @staticmethod
     def add_default_arguments_to_parser(parser: argparse.ArgumentParser) -> argparse.ArgumentParser:
         parser = argparse.ArgumentParser(description="Enter NFT collection ID, IDs or from to rank example(10, 20) from selected collection. In addition can check if it's on sale")
