@@ -1,6 +1,8 @@
+from audioop import add
 import sys
 import time
 import argparse
+import pyperclip
 from typing import Optional, Union, Any, Callable, Tuple, List
 from config.config_data import RarityConfig, Other_Config
 from selenium import webdriver
@@ -24,14 +26,29 @@ class FirefoxDriverWrapper(webdriver.Firefox):
     def driver(self, headless):
         self.driver = webdriver.Firefox(options=self.set_firefox_options(local_test_mode=headless))
 
+    @staticmethod
+    def wait_until_content_recived(driver, xpath):
+        """ Waits until content has been recived """
+        return WebDriverWait(driver, 10).until(
+                EC.visibility_of_element_located((By.XPATH, xpath))
+            ).text
 
-    # def wait_until_webpage_fully_loaded(self, driver):
-    #     """ Waits after the redirect happens to make sure that the full page is loaded """
-    #     self.driver = driver
-    #     WebDriverWait(self.driver, 2).until(
-    #             EC.presence_of_element_located((By.XPATH, self.Rarityconfig.rank_id))
-    #         )
-        
+    @staticmethod
+    def get_owner_OS(driver, xpath):
+        """ Waits until owner for OS has been recived """
+        return WebDriverWait(driver, 10).until(
+                EC.visibility_of_element_located((By.XPATH, xpath))
+            ).get_attribute('href')
+    @staticmethod
+    def wait_until_content_click(driver, xpath):
+        """ Waits until content has been clicked """
+        element = WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable((By.XPATH, xpath))
+            )
+        element.click()
+        address = pyperclip.paste()
+        return address
+
 
     
     def set_firefox_options(self, local_test_mode: bool = False) -> webdriver.Chrome:

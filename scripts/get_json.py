@@ -1,19 +1,15 @@
 import json
 from json import encoder
-encoder.FLOAT_REPR = lambda o: format(o, '.2f')
+from config.config_data import RarityConfig
 
-json_strings = {
-                "RANK": 2,
-                "ID": '#3491',
-                "Rarity Score": 29452.70,
-                "Wallet": 'shiruko',
-                "Price": 'UNLISTED'
-            }
-
-with open('./files/ranking_data.json', 'r') as f:
-    data = json.load(f)
-
-data.append(json_strings)
-
-with open('./files/ranking_data.json', 'w') as f:
-    json.dump(data, f)
+class DumpNFTData():
+    global collection
+    collection = ''
+    
+    def json_dump(**kwargs):
+        with open('./files/data.json', 'r') as f:
+            data = json.load(f)
+        data.append(kwargs)
+        with open('./files/data.json', 'w') as f:
+            json.dump(data, f)
+        print(collection)

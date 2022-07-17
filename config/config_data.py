@@ -17,13 +17,18 @@ class RarityConfig:
     rank_id: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[1]'
     rarity_score: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[2]/div[3]/div'
     owner_OS: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[2]/div[2]/a'
-    listed: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[2]/div[1]/a/div/span/span[2]'
+    # listed: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[2]/div[1]/a/div/span/span[2]'
+    listed: str = '/html/body/div[1]/div[1]/div[3]/div/div/div/div/div/div[2]/div[1]/div[2]/div[1]/a/div/span'
+    listed_CSS: str = "span.md\:inline:nth-child(2)"
 
-    OS_Collected: str = '/html/body/div[1]/div/main/div/div/div[5]/div/div[2]/div/div/div[2]/nav/ul/li[1]/a/span[2]'
+    OS_Collected: str = '/html/body/div[1]/div/main/div/div/div[5]/div/div[1]/div/div/div[2]/nav/ul/li[2]/a/span[2]'
     OS_Collected_2: str = '/html/body/div[1]/div/main/div/div/div[5]/div/div[1]/div/div/div[2]/nav/ul/li[1]/a/span[2]'
+    OS_Collected_3: str = '/html/body/div[1]/div/main/div/div/div[5]/div/div[2]/div/div/div[2]/nav/ul/li[1]/a/span[2]'
     OS_ETH_address: str = '/html/body/div[1]/div/main/div/div/div[4]/div/div/div[1]/div/div/div[1]/a/div/button'
     OS_ETH_address_2: str = '/html/body/div[1]/div/main/div/div/div[1]/div[3]/div[3]/div'
 
+    OS_ETH_press: str = '/html/body/div[1]/div/main/div/div/div[4]/div/div/div[1]/div/div/div[1]/a/button'
+    OS_ETH_address_3: str = '/html/body/div[1]/div/main/div/div/div[4]/div/div/div[1]/div/div/div[1]/div/div/div/div/ul/li[2]/button'
     @staticmethod
     def add_default_arguments_to_parser(parser: argparse.ArgumentParser) -> argparse.ArgumentParser:
         parser = argparse.ArgumentParser(description="Enter NFT collection ID, IDs or from to rank example(10, 20) from selected collection. In addition can check if it's on sale")
