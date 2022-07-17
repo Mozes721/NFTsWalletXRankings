@@ -14,7 +14,7 @@ import selenium.webdriver.support.expected_conditions as EC
 
 
 class RarityWebsiteRunner(FirefoxDriverWrapper):
- 
+  
     webdriver_timeout = 240
  
     def __init__(self, args: List) -> None:
@@ -139,4 +139,13 @@ def parse_args(args: List) -> argparse.Namespace:
 
 if __name__ == '__main__':
     args = parse_args(sys.argv[1:])
+<<<<<<< HEAD
     RarityWebsiteRunner(args)
+=======
+    #sys.argv 
+    #choose collection and id or ids, option to buy now rank from and to and price
+
+    #args_ = parse
+    #factory = EssentialsWorkflowRunnerFactory() if args_.only_run_essentials else ManualWorkflowRunnerFactory()
+    RarityWebsiteRunner(args)
+>>>>>>> 8d16d8231c004a8c236cac770a5ba753ee0c7abc

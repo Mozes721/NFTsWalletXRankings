@@ -10114,3 +10114,56 @@ JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd7
 JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMD7WQyCAQAAZe-Bfj1fakF_2AeGCnvIdXD0LFFI-WhikqC7ks-2cjArjlgG&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1658064752547	Marionette	INFO	Stopped listening on port 63770
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658064823039	geckodriver	INFO	Listening on 127.0.0.1:63926
+1658064825936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63928" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile2f71Bm"
+1658064826710	Marionette	INFO	Marionette enabled
+1658064826720	Marionette	INFO	Listening on port 63935
+WebDriver BiDi listening on ws://localhost:63928
+1658064827090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofile2f71Bm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63928/devtools/browser/faed9737-3af9-48a2-a980-7bd605d1894f
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 122ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMD7WQyCAQAAZe-Bfj1fakF_2AeGCnvIdXD0LFFI-WhikqC7ks-2cjArjlgG&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 571ms)
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 262ms)
+1658064871060	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 155ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMD7WQyCAQAAZe-Bfj1fakF_2AeGCnvIdXD0LFFI-WhikqC7ks-2cjArjlgG&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://raritysniper.com/_app/pages/_...asset_asset_.svelte-a4721234.js, line 1: TypeError: T.traits is undefined
+1658065308701	Marionette	INFO	Stopped listening on port 63935
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64176" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileH7F88Y"
+1658065014621	Marionette	INFO	Marionette enabled
+1658065014629	Marionette	INFO	Listening on port 64183
+WebDriver BiDi listening on ws://localhost:64176
+1658065014971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileH7F88Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64176/devtools/browser/33b48bfb-f693-4d40-b2ff-dda64f94836e
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 183ms)
+1658065024855	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMD7WQyCAQAAZe-Bfj1fakF_2AeGCnvIdXD0LFFI-WhikqC7ks-2cjArjlgG&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://raritysniper.com/_app/pages/_...asset_asset_.svelte-a4721234.js, line 1: TypeError: T.traits is undefined
+JavaScript error: https://raritysniper.com/_app/pages/_...asset_asset_.svelte-a4721234.js, line 1: TypeError: T.traits is undefined
+JavaScript error: https://raritysniper.com/_app/pages/_...asset_asset_.svelte-a4721234.js, line 1: TypeError: T.traits is undefined
+1658065307940	Marionette	INFO	Stopped listening on port 64183
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64319" "-no-remote" "-profile" "C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileKT7tAk"
+1658065115231	Marionette	INFO	Marionette enabled
+1658065115243	Marionette	INFO	Listening on port 64324
+WebDriver BiDi listening on ws://localhost:64319
+1658065115567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\R3E06~1.TAU\\AppData\\Local\\Temp\\rust_mozprofileKT7tAk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64319/devtools/browser/8c2c4782-e6db-46a5-b35b-bbeaa1229119
+JavaScript warning: https://opensea.io/_next/static/chunks/d3dd70f4.e5da92536cd729030e69.js, line 0: Successfully compiled asm.js code (total compilation time 181ms)
+JavaScript warning: https://opensea.io/singular-www.js?async&seed=AMD7WQyCAQAAZe-Bfj1fakF_2AeGCnvIdXD0LFFI-WhikqC7ks-2cjArjlgG&I196zqqsyk--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658065306811	Marionette	INFO	Stopped listening on port 64324
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
