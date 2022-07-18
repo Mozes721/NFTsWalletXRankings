@@ -8,7 +8,7 @@ from scripts.get_json import DumpNFTData
 from config.config_data import RarityConfig
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
-
+ 
 
 class RarityWebsiteRunner(FirefoxDriverWrapper):
  
