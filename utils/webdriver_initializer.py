@@ -16,12 +16,11 @@ from selenium.webdriver.firefox.options import Options
  
 class FirefoxDriverWrapper(webdriver.Firefox):
 
-    def __init__(self, download_dir: Optional[str] = "", local_test_mode: Optional[bool] = False) -> None:
+    def __init__(self) -> None:
         self.Rarityconfig = RarityConfig()
-        # self.OSConfig = OSConfig()
         self.Otherconfig = Other_Config()
         self.firefox_options = self.set_firefox_options(local_test_mode=False)
-        # self.wait = WebDriverWait(self.driver, 10)
+
          
     def driver(self, headless):
         self.driver = webdriver.Firefox(options=self.set_firefox_options(local_test_mode=headless))
@@ -49,8 +48,6 @@ class FirefoxDriverWrapper(webdriver.Firefox):
         address = pyperclip.paste()
         return address
 
-
-    
     def set_firefox_options(self, local_test_mode: bool = False) -> webdriver.Chrome:
         firefox_options = Options()
 
