@@ -13,7 +13,7 @@ from selenium.webdriver.common.by import By
 class RarityWebsiteRunner(FirefoxDriverWrapper):
  
     webdriver_timeout = 240
- 
+  
     def __init__(self, args: List) -> None:
         self.collection = args.collection.replace(" ", "-").lower()
         self.id = args.id    
